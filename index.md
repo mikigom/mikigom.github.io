@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Junghoon Seo
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
@@ -7,87 +7,84 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Contact: jhseo /at/ si-analytics.ai
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+## Education
+* Mar 2023 - Future, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+  * M.S degree, affiliated to [HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)) in [Graduate School of Culture Technology](https://ct.kaist.ac.kr/)
+* Mar 2014 - Feb 2021, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
+  * B.S degree, Major in Electrical Engineering and Computer Science
 
-## Features
+## Interests
+* Machine Learning and Computer Vision
+* High-Performance Computing and GPGPU
+* ML-augmented Sensing
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+## Career
+* Sep 2020 - urrent, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
-## Examples
+## Publications
+* Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
+> Single-temporal supervision which treats change labels as the difference of two semantic masks.
+* Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
+> Non-parametric uncertainty estimation using Pinball loss improves auto-encoding based anomaly detection.
+* Beomsu Kim, <U>Junghoon Seo</U>. **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**. International Conference on Artificial Intelligence and Statistics (AISTATS). 2022. [Link](https://arxiv.org/abs/2202.10523)
+> Semi-implicit hybrid gradient methods for finding stationary points of smooth MVI nonconvex-nonconcave minimax problems
+* Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi. **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**. IEEE Geoscience and Remote Sensing Letters. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg)
+> Multi-modal representation learning can improve semantic segmentation in SAR domain.
+* Chaehyeon Lee, <U>Junghoon Seo</U>, Heechul Jung. **Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner**. CVPR Workshop on EarthVision: Large Scale Computer Vision for Remote Sensing Imagery. 2021. [Link](https://arxiv.org/abs/2105.14693)
+> NDFT is too slow. Let it be fixed.
+* <U>Junghoon Seo</U>, Joon Suk Huh. **On the Power of Deep but Naive Partial Label Learning**. IEEE International Conference on Acoustics, Speech, & Signal Processing (IEEE ICASSP). 2021. [Link](https://arxiv.org/abs/2010.11600)
+> Frustratingly simple but SOTA-level baseline for partial label learning
+* Yooseung Wang, <U>Junghoon Seo</U>, Taegyun Jeon. **NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations**. IEEE Geoscience and Remote Sensing Letters. 2021. [Link](https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw)
+> Non-local blocks can replace multiple dilated convolution in road segmentation networks
+* <U>Junghoon Seo</U>, Seungwon Lee, Beomsu Kim, Taegyun Jeon. **Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector**. NeurIPS Workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response. 2019. [Link](https://arxiv.org/abs/1910.01911)
+> Revisitation on the classical bootstrap aggregating approach for deep disaster damage detection with data-efficiency
+* <U>Junghoon Seo</U>, Jamyoung Koo, and Taegyun Jeon. **Deep Closed-Form Subspace Clustering**. ICCV Workshop on Robust Subspace Learning and Applications in Computer Vision. 2019. [Link](https://arxiv.org/abs/1908.09419)
+> Embarrassingly simple auto-encoder based subspace clustering method. No self-expressive layer. No sophisticated optimization loop. 
+* Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, Taegyun Jeon. **Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps**. ICCV Workshop on Interpreting and Explaining Visual AI Models. 2019. [Link](https://arxiv.org/abs/1902.04893)
+> Rectified Gradient, a method that solves this problem through layer-wise thresholding during backpropagation
+* Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon. **Bridging Adversarial Robustness and Gradient Interpretability**. ICLR Workshop on Safe Machine Learning: Specification, Robustness and Assurance. 2019. [Link](https://arxiv.org/abs/1903.11626)
+> Quantitative test on relationship between adversarial robustness and gradient interpretability
+* Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon. **RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image**. ACM International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL). 2018. [Link](https://dl.acm.org/citation.cfm?id=3274915)
+> The 2nd winner solution on DOTA Object Detection 2018 Challenge
+* <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon. **Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative**. ICML Workshop on Human Interpretability in Machine Learning. 2018. [Link](https://arxiv.org/abs/1806.03000)
+> Asymptotic analysis on noise-adding saliency map methods: SmoothGrad and VarGrad
+* <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon. **Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017. [Link](https://arxiv.org/abs/1806.03002)
+> SimGAN approach for domain adaptive generation of rare class instance
+* Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon. **Multi-task Learning for Fine-grained Visual Classification of Aircraft.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017.
+> Cascade feature fusion strategy wih multi-task learning can largely improve fine-grained aircraft classification
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+## Award
+* 2021, I graduated the university with Best Undergraduate Thesis Award
+> Title: "Hemispherical Neural Importance Sampling for Path Tracing"
+* 2020, my team ranked the 5th place in [xView2 Challange](https://xview2.org/).
+> Over ~3,500 registered participants.
+* 2018, my team ranked the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/) (Track 2, 3, and 4). [Related Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html)
+> Over ~110 registered participants.
+* 2018, my team ranked the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)
+> One of the largest object detection competition on remote sensing domain
+* 2016, my team got the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)
+> The largest parallel computing competition in South Korea
+* 2016, I got the Qualcomm-GIST Innovation Award
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+## Talks
+* **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ Korea Atomic Energy Research Institute. Feb 2020.
+* **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
+* **Deep Perceptual Super-resolution: Going Beyond Distortion** @ Korea Aerospace Research Institute. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
 
-## Installation
+## Review-serving
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Geoscience and Remote Sensing Letters
+* Several Conferences including AISTATS, BMVC...
+* Several Workshops on ICCV, ICLR, CVPR...
 
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+## Patents
+* Method for detecting object, granted, 10-2364882
+* Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
+* Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
+* Method for detecting object, application, 10-2021-0168545
+* Method to detect object, application, 10-2021-0135451
+* Method for data clustering, application, 10-2020-0107206
