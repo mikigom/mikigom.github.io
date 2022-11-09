@@ -6,23 +6,23 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Contact: jhseo /at/ si-analytics.ai
 
-## Education
+### Education
 * Mar 2023 - Current, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   * M.S degree, Major in Graduate School of Culture Technology
   * Advised by [Prof. Sangho Yoon](http://hcidesigner.weebly.com/) (affiliated to [HCI Tech Lab](https://hcitech.org/))
 * Mar 2014 - Feb 2021, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
 
-## Interests
+### Interests
 * Machine Learning and Computer Vision
 * High-Performance Computing and GPGPU
 * ML-augmented Sensing Technique
 
-## Career
+### Career
 * Sep 2020 - Current, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
-## Publications
+### Publications
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
 > Single-temporal supervision which treats change labels as the difference of two semantic masks.
 * Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
@@ -54,7 +54,7 @@ Contact: jhseo /at/ si-analytics.ai
 * Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon. **Multi-task Learning for Fine-grained Visual Classification of Aircraft.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017.
 > Cascade feature fusion strategy wih multi-task learning can largely improve fine-grained aircraft classification
 
-## Award
+### Award
 * 2021, I graduated the university with Best Undergraduate Thesis Award
 > Title: "Hemispherical Neural Importance Sampling for Path Tracing"
 * 2020, my team ranked the 5th place in [xView2 Challange](https://xview2.org/).
@@ -67,19 +67,19 @@ Contact: jhseo /at/ si-analytics.ai
 > The largest parallel computing competition in South Korea
 * 2016, I got the Qualcomm-GIST Innovation Award
 
-## Talks
+### Talks
 * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ Korea Atomic Energy Research Institute. Feb 2020.
 * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
 * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ Korea Aerospace Research Institute. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
 
-## Review-serving
+### Review-serving
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Geoscience and Remote Sensing Letters
 * Several Conferences including AISTATS, BMVC...
 * Several Workshops on ICCV, ICLR, CVPR...
 
-## Patents
+### Patents
 * Method for detecting object, granted, 10-2364882
 * Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
 * Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
