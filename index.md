@@ -40,16 +40,11 @@ Contact: jhseo /at/ si-analytics.ai
 * Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon. **Multi-task Learning for Fine-grained Visual Classification of Aircraft.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017.
 
 ### Award
-* 2021, I graduated the university with Best Undergraduate Thesis Award
-> Title: "Hemispherical Neural Importance Sampling for Path Tracing"
+* 2021, I graduated the college with Best Undergraduate Thesis Award
 * 2020, my team ranked the 5th place in [xView2 Challange](https://xview2.org/).
-> Over ~3,500 registered participants.
 * 2018, my team ranked the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/) (Track 2, 3, and 4). [Related Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html)
-> Over ~110 registered participants.
 * 2018, my team ranked the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)
-> One of the largest object detection competition on remote sensing domain
 * 2016, my team got the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)
-> The largest parallel computing competition in South Korea
 * 2016, I got the Qualcomm-GIST Innovation Award
 
 ### Talks
