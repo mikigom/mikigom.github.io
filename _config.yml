@@ -122,11 +122,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /about
 
 navigation_footer:
 - title: Created by Junghoon Seo
-  url: https://darn.es
+  url: https://mikigom.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/junghoon-seo/
