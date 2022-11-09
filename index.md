@@ -24,35 +24,20 @@ Contact: jhseo /at/ si-analytics.ai
 
 ### Publications
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
-> Single-temporal supervision which treats change labels as the difference of two semantic masks.
 * Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
-> Non-parametric uncertainty estimation using Pinball loss improves auto-encoding based anomaly detection.
 * Beomsu Kim, <U>Junghoon Seo</U>. **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**. International Conference on Artificial Intelligence and Statistics (AISTATS). 2022. [Link](https://arxiv.org/abs/2202.10523)
-> Semi-implicit hybrid gradient methods for finding stationary points of smooth MVI nonconvex-nonconcave minimax problems
 * Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi. **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**. IEEE Geoscience and Remote Sensing Letters. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg)
-> Multi-modal representation learning can improve semantic segmentation in SAR domain.
 * Chaehyeon Lee, <U>Junghoon Seo</U>, Heechul Jung. **Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner**. CVPR Workshop on EarthVision: Large Scale Computer Vision for Remote Sensing Imagery. 2021. [Link](https://arxiv.org/abs/2105.14693)
-> NDFT is too slow. Let it be fixed.
 * <U>Junghoon Seo</U>, Joon Suk Huh. **On the Power of Deep but Naive Partial Label Learning**. IEEE International Conference on Acoustics, Speech, & Signal Processing (IEEE ICASSP). 2021. [Link](https://arxiv.org/abs/2010.11600)
-> Frustratingly simple but SOTA-level baseline for partial label learning
 * Yooseung Wang, <U>Junghoon Seo</U>, Taegyun Jeon. **NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations**. IEEE Geoscience and Remote Sensing Letters. 2021. [Link](https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw)
-> Non-local blocks can replace multiple dilated convolution in road segmentation networks
 * <U>Junghoon Seo</U>, Seungwon Lee, Beomsu Kim, Taegyun Jeon. **Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector**. NeurIPS Workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response. 2019. [Link](https://arxiv.org/abs/1910.01911)
-> Revisitation on the classical bootstrap aggregating approach for deep disaster damage detection with data-efficiency
 * <U>Junghoon Seo</U>, Jamyoung Koo, and Taegyun Jeon. **Deep Closed-Form Subspace Clustering**. ICCV Workshop on Robust Subspace Learning and Applications in Computer Vision. 2019. [Link](https://arxiv.org/abs/1908.09419)
-> Embarrassingly simple auto-encoder based subspace clustering method. No self-expressive layer. No sophisticated optimization loop. 
 * Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, Taegyun Jeon. **Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps**. ICCV Workshop on Interpreting and Explaining Visual AI Models. 2019. [Link](https://arxiv.org/abs/1902.04893)
-> Rectified Gradient, a method that solves this problem through layer-wise thresholding during backpropagation
 * Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon. **Bridging Adversarial Robustness and Gradient Interpretability**. ICLR Workshop on Safe Machine Learning: Specification, Robustness and Assurance. 2019. [Link](https://arxiv.org/abs/1903.11626)
-> Quantitative test on relationship between adversarial robustness and gradient interpretability
 * Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon. **RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image**. ACM International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL). 2018. [Link](https://dl.acm.org/citation.cfm?id=3274915)
-> The 2nd winner solution on DOTA Object Detection 2018 Challenge
 * <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon. **Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative**. ICML Workshop on Human Interpretability in Machine Learning. 2018. [Link](https://arxiv.org/abs/1806.03000)
-> Asymptotic analysis on noise-adding saliency map methods: SmoothGrad and VarGrad
 * <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon. **Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017. [Link](https://arxiv.org/abs/1806.03002)
-> SimGAN approach for domain adaptive generation of rare class instance
 * Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon. **Multi-task Learning for Fine-grained Visual Classification of Aircraft.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017.
-> Cascade feature fusion strategy wih multi-task learning can largely improve fine-grained aircraft classification
 
 ### Award
 * 2021, I graduated the university with Best Undergraduate Thesis Award
