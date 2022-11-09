@@ -7,7 +7,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 Contact: jhseo /at/ si-analytics.ai
 
 ## Education
-* Mar 2023 - Future, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+* Mar 2023 - Current, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   * M.S degree, Major in Graduate School of Culture Technology (https://ct.kaist.ac.kr/)
   * Affiliated to [HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/))
 * Mar 2014 - Feb 2021, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
@@ -16,10 +16,10 @@ Contact: jhseo /at/ si-analytics.ai
 ## Interests
 * Machine Learning and Computer Vision
 * High-Performance Computing and GPGPU
-* ML-augmented Sensing
+* ML-augmented Sensing Technique
 
 ## Career
-* Sep 2020 - urrent, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* Sep 2020 - Current, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ## Publications
