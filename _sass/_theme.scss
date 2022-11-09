@@ -382,7 +382,7 @@ textarea {
 }
 
 label {
-  @include baseline($fontsize: iota, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+  @include baseline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 }
 
 code {
