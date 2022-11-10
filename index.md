@@ -3,26 +3,25 @@ title: About
 feature_text: Junghoon Seo|
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. From Spring 2023, I plan to pursue a master's program at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in high-performance computing, computer graphics, and ML-augmented sensing technique for human-computer interaction. Don't hesitate to contact me if you have any business!
+Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. From Spring 2023, I plan to pursue a master's program at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me if you have any business!
 
 Contact: jhseo /at/ si-analytics.ai
 
 ### Education
-* ``Mar 2023 - Current``, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+* *Mar 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   * M.S degree in Graduate School of Culture Technology
   * Advised by [Prof. Sangho Yoon](http://hcidesigner.weebly.com/) (affiliated to [HCI Tech Lab](https://hcitech.org/))
-* ``Mar 2014 - Feb 2021``, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
+* *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Career
-* ``Sep 2020 - Current``, Technical Leader & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
-* ``Jul 2017 - Feb 2020``, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+* *Sep 2020 - Current*, Technical Leader & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Interests
-* Machine Learning and Computer Vision
-* High-Performance Computing and GPGPU
-* Computer Graphics
-* ML-augmented Sensing Technique
+* Machine Learning, Computer Vision, and Computer Graphics
+* Parallel Computing
+* Intelligent Sensing Technique for Human-Computer Interaction
 
 ### Publications
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
@@ -42,12 +41,12 @@ Contact: jhseo /at/ si-analytics.ai
 * Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon. **Multi-task Learning for Fine-grained Visual Classification of Aircraft.** ACML Workshop on Machine Learning for Artificial Intelligence Platforms. 2017.
 
 ### Award
-* ``2021``, I graduated the college with Best Undergraduate Thesis Award
-* ``2020``, my team ranked the 5th place in [xView2 Challange](https://xview2.org/).
-* ``2018``, my team ranked the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/) (Track 2, 3, and 4). [Related Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html)
-* ``2018``, my team ranked the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)
-* ``2016``, my team got the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)
-* ``2016``, I got the Qualcomm-GIST Innovation Award
+* *2021*, I graduated the college with Best Undergraduate Thesis Award
+* *2020*, my team ranked the 5th place in [xView2 Challange](https://xview2.org/).
+* *2018*, my team ranked the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/) (Track 2, 3, and 4). [Related Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html)
+* *2018*, my team ranked the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)
+* *2016*, my team got the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)
+* *2016*, I got the Qualcomm-GIST Innovation Award
 
 ### Talks
 * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ Korea Atomic Energy Research Institute. Feb 2020.
