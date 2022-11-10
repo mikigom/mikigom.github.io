@@ -3,7 +3,8 @@ title: About
 feature_text: Junghoon Seo|
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-## Junghoon Seo
+Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. From, I plan to pursue a master's program at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in high-performance computing, computer graphics, and ML-augmented sensing technique for human-computer interaction. Don't hesitate to contact me if you have any business!
+
 Contact: jhseo /at/ si-analytics.ai
 
 ### Education
