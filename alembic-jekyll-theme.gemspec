@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Junghoon's CV}
   spec.description   = "Junghoon's CV"
-  spec.homepage      = "mikigom.github.io"
+  spec.homepage      = "https://mikigom.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
