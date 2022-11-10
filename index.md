@@ -15,7 +15,7 @@ Contact: jhseo /at/ si-analytics.ai
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Career
-* Sep 2020 - Current, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* Sep 2020 - Current, Technical Leader & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Interests
