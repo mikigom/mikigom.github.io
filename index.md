@@ -20,7 +20,7 @@ Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research te
 * Parallel Computing
 * Intelligent Sensing Technique for Human-Computer Interaction
 
-### Publications <span style="font-family:Papyrus; font-size:6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
 * Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * Beomsu Kim, <U>Junghoon Seo</U>. **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**. International Conference on Artificial Intelligence and Statistics (AISTATS). 2022. [Link](https://arxiv.org/abs/2202.10523)
