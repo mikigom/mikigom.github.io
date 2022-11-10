@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "Junghoon Seo" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/rilakkuma-icon-png-8.png" # Site logo, also used in jekyll-seo-tag
 description: "Junghoon's CV" # Site description and default description, also used in jekyll-seo-tag
-url: "https://mikigom.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://mikigom.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/mikigom/mikigom.github.io"
 email: "jhseo@si-analytics.ai"
