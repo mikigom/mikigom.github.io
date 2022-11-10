@@ -3,8 +3,8 @@ title: Curriculum Vitae
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ---
 Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. From Spring 2023, I plan to pursue a master's program at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me if you have any business!
-
-Contact: jhseo /at/ si-analytics.ai
+- Email: jhseo /at/ si-analytics.ai
+- LinkedIn: www.linkedin.com/in/junghoon-seo/
 
 ### Education
 * *Mar 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
@@ -22,7 +22,7 @@ Contact: jhseo /at/ si-analytics.ai
 * Parallel Computing
 * Intelligent Sensing Technique for Human-Computer Interaction
 
-### Publications
+### Publications <sub>[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</sub>
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
 * Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * Beomsu Kim, <U>Junghoon Seo</U>. **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**. International Conference on Artificial Intelligence and Statistics (AISTATS). 2022. [Link](https://arxiv.org/abs/2202.10523)
