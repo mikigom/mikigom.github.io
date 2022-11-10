@@ -8,7 +8,7 @@ Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research te
 Contact: jhseo /at/ si-analytics.ai
 
 ### Education
-* Mar 2023 - Current, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+* <small>Mar 2023 - Current</small>, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   * M.S degree, Major in Graduate School of Culture Technology
   * Advised by [Prof. Sangho Yoon](http://hcidesigner.weebly.com/) (affiliated to [HCI Tech Lab](https://hcitech.org/))
 * Mar 2014 - Feb 2021, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
