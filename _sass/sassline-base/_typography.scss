@@ -249,7 +249,7 @@ a {
 
   small {
     line-height: 1rem;
-    font-size: theta;
+    font-size: 0.8 * nth($sizes, 1);
   }
 
   .caption {
