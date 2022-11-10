@@ -17,8 +17,8 @@ Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research te
 
 ### Interests
 * Machine Learning, Computer Vision, and Computer Graphics
-* Parallel Computing and GPGPU
-* Intelligent Sensing Technique for Human-Computer Interaction
+* Parallel Computing, and General-Purpose Computing on GPU
+* Intelligent Sensing Techniques for Human-Computer Interaction
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
