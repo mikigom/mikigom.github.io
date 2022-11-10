@@ -3,7 +3,7 @@ title: About
 feature_text: Junghoon Seo|
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-
+## Junghoon Seo
 Contact: jhseo /at/ si-analytics.ai
 
 ### Education
@@ -13,14 +13,14 @@ Contact: jhseo /at/ si-analytics.ai
 * Mar 2014 - Feb 2021, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
 
+### Career
+* Sep 2020 - Current, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+
 ### Interests
 * Machine Learning and Computer Vision
 * High-Performance Computing and GPGPU
 * ML-augmented Sensing Technique
-
-### Career
-* Sep 2020 - Current, Technical Lead & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
-* Jul 2017 - Feb 2020, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Publications
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://mikigom.github.io/about/)
