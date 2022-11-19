@@ -6,8 +6,7 @@ Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research te
 
 ### Education
 * *Mar 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-  * M.S degree in Graduate School of Culture Technology
-  * Advised by [Prof. Sangho Yoon](http://hcidesigner.weebly.com/) (affiliated to [HCI Tech Lab](https://hcitech.org/))
+  * M.S degree course in Graduate School of Culture Technology
 * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
 
