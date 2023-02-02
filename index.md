@@ -22,7 +22,9 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
-* **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+* **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
+
+&emsp;<img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - Authors: Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
   - IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
 * **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data** <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
@@ -53,19 +55,19 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   - Authors: Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, and Taegyun Jeon
   - ICCV Workshop. 2019. [Link](https://arxiv.org/abs/1902.04893)
 * **Bridging Adversarial Robustness and Gradient Interpretability** <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
-  - Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon
+  - Authors: Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon
   - ICLR Workshop. 2019. [Link](https://arxiv.org/abs/1903.11626)
 * **RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
-  - Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon
+  - Authors: Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon
   - ACM SIGSPATIAL. 2018. [Link](https://dl.acm.org/citation.cfm?id=3274915)
 * **Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative** <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
-  -  <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon
+  - Authors: <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon
   - ICML Workshop. 2018. [Link](https://arxiv.org/abs/1806.03000)
 * **Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
-  - <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon
+  - Authors: <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon
   - ACML Workshop. 2017. [Link](https://arxiv.org/abs/1806.03002)
 * **Multi-task Learning for Fine-grained Visual Classification of Aircraft** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
-  - Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
+  - Authors: Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - ACML Workshop. 2017.
 
 ### Award
