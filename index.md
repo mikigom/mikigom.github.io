@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ---
-Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. From Spring 2023, I plan to pursue a master's program at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:jhseo@si-analytics.ai) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. I study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:jhseo@si-analytics.ai) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
 ### Education
 * *Feb 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
