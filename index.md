@@ -18,7 +18,7 @@ Hi, I am the technical leader of the research team at [SI Analytics](https://www
 * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Interests
-* Machine Learning, Computer Vision, and Computer Graphics
+* Machine Learning, Computer Vision, and their Applications to Remote Sensing
 * Parallel Computing, and General-Purpose Computing on GPU
 * Intelligent Sensing Techniques for Human-Computer Interaction
 
