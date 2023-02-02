@@ -6,20 +6,20 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 
 Hi, I am the technical leader of the research team at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:jhseo@si-analytics.ai) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
-### Education
-* *Feb 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-  * M.S degree course in Graduate School of Culture Technology
-* *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
-  * B.S degree, Major in Electrical Engineering and Computer Science
+### Interests
+* Machine Learning, Computer Vision, Computer Graphics and their Applications to Remote Sensing
+* Parallel Computing, and General-Purpose Computing on GPU
+* Intelligent Sensing Techniques for Human-Computer Interaction
 
 ### Career
 * *Sep 2020 - Current*, Technical Leader & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
-### Interests
-* Machine Learning, Computer Vision, Computer Graphics and their Applications to Remote Sensing
-* Parallel Computing, and General-Purpose Computing on GPU
-* Intelligent Sensing Techniques for Human-Computer Interaction
+### Education
+* *Feb 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+  * M.S degree course in Graduate School of Culture Technology
+* *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
+  * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * Seo Minseok, Lee Hakjin, Jeon Yongjin, <U>Junghoon Seo</U>. **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**. IEEE Winter Conference on Applications of Computer Vision (IEEE WACV). 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
