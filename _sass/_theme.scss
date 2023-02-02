@@ -223,7 +223,8 @@ a .icon {
 img {
   max-width: 100%;
   height: auto;
-  display: block;
+  display: inline-block;
+  vertical-align: text-bottom;
 }
 
 .figure {
