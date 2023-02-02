@@ -23,9 +23,11 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
-  * Authors: Minseok Seo, Hakjin Lee, Yongjin Jeon, <U>Junghoon Seo</U>
-  * IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
-* ![machine-learning](/assets/Field-Machine Learning-lightgrey.svg){:height="10px"} Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
+  - Authors: Minseok Seo, Hakjin Lee, Yongjin Jeon, <U>Junghoon Seo</U>.
+  - IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
+* **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
+  - Authors: Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo.
+  - IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * Beomsu Kim, <U>Junghoon Seo</U>. **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**. AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523)
 * ![remote-sensing](/assets/Field-Remote Sensing-lightgrey.svg){:height="10px"} Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi. **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**. IEEE GRSL. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg)
 * ![computer-vision](/assets/Field-Computer Vision-lightgrey.svg){:height="10px"} Chaehyeon Lee, <U>Junghoon Seo</U>, Heechul Jung. **Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner**. CVPR Workshop. 2021. [Link](https://arxiv.org/abs/2105.14693)
