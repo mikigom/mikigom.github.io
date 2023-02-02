@@ -22,7 +22,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
-* **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+* **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery** <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg" display="block">
   * Authors: Minseok Seo, Hakjin Lee, Yongjin Jeon, <U>Junghoon Seo</U>
   * IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
 * ![machine-learning](/assets/Field-Machine Learning-lightgrey.svg){:height="10px"} Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, Hogeon Seo. **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**. IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
