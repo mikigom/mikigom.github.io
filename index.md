@@ -2,7 +2,9 @@
 title: Junghoon Seo
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ---
+
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
+
 
 Hi, I am the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:jhseo@si-analytics.ai) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
