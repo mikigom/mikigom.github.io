@@ -45,6 +45,7 @@ Hi, I'm **Junghoon Seo**. I am currently the technical leader of the research te
 * *2016*, I got the Qualcomm-GIST Innovation Award
 
 ### Talks
+* **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
 * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ Korea Atomic Energy Research Institute. Feb 2020.
 * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
 * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ Korea Aerospace Research Institute. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
