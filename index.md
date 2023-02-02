@@ -86,7 +86,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 ### Award
 * *2021*, I graduated the college with **Best Undergraduate Thesis Award**
 * *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
-* *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)
+* *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)**
 * *2018*, my team ranked **the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)**
 * *2016*, my team got **the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**
 * *2016*, I got **the Qualcomm-GIST Innovation Award**
