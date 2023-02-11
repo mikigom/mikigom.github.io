@@ -10,7 +10,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 
 ### Interests
 * Machine Learning, Computer Vision, Computer Graphics, and their Applications to Remote Sensing
-* Parallel Computing and General-Purpose Computing on GPU
+* Parallel Computing on HPC and General-Purpose Computing on GPU
 * Intelligent Sensing Techniques for Human-Computer Interaction
 
 ### Career
