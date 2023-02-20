@@ -15,7 +15,7 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 
 ### 경력
 * *2020년 9월 - 현재*, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
-* *2017년 7월 - 2020년 2월*, ML/CV 연구원 @ [Satrec Initiative](https://www.satreci.com/)
+* *2017년 7월 - 2020년 2월*, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
 
 ### 교육
 * *2023년 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
