@@ -3,8 +3,6 @@ title: 서정훈
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ---
 
-<div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
-
 서정훈은 한국의 위성/항공 이미지 분석 회사인 SI Analytics의 연구 센터 기술 책임자입니다.
 동시에 KAIST HCI Tech Lab (지도교수: 윤상호 교수)에서 석사과정을 중에 있습니다.
 주요 업무 범위는 원격 탐사 응용을 위한 컴퓨터 비전 및 기계 학습에 대한 연구 프로젝트를 지원하고 관리하는 것입니다.
