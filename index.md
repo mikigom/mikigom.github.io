@@ -1,5 +1,5 @@
 ---
-title: Junghoon Seo
+title: 서정훈
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ---
 
