@@ -6,7 +6,7 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
 
 서정훈은 한국의 위성/항공 이미지 분석 회사인 SI Analytics의 연구 센터 기술 책임자입니다.
-동시에 KAIST HCI Tech Lab (책임) 윤상호 교수)에서 석사과정을 중에 있습니다.
+동시에 KAIST HCI Tech Lab (지도교수: 윤상호 교수)에서 석사과정을 중에 있습니다.
 주요 업무 범위는 원격 탐사 응용을 위한 컴퓨터 비전 및 기계 학습에 대한 연구 프로젝트를 지원하고 관리하는 것입니다.
 그 외에도 컴퓨터 그래픽스, 병렬 컴퓨팅, 그리고 인간-컴퓨터 상호 작용을 위한 지능형 센싱 기술 등에 관심이 있으며 유관 경험이 있습니다.
 
@@ -16,13 +16,13 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 * 인간-컴퓨터 상호작용을 위한 지능형 센싱 기술
 
 ### 경력
-* *2020 9월 - 현재*, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
-* *2017 7월 - 2020 2월*, ML/CV 연구원 @ [Satrec Initiative](https://www.satreci.com/)
+* *2020년 9월 - 현재*, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
+* *2017년 7월 - 2020년 2월*, ML/CV 연구원 @ [Satrec Initiative](https://www.satreci.com/)
 
 ### 교육
-* *2023 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
+* *2023년 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
   * 문화기술대학원 석사 과정
-* *2014 3월 - 2021 2월*, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
+* *2014년 3월 - 2021년 2월*, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
   * 학사, 전기전자 및 컴퓨터 공학 전공
 
 ### 출판 <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
@@ -88,12 +88,12 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
 ### 수상 경력
-* *2021*, GIST에서 **최우수학부논문상**으로 학부 졸업
-* *2020*, [xView2 Challange](https://xview2.org/)** 5위
-* *2018*, CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 4-5위
-* *2018*, **[DOTA Challange](https://captain-whu.github.io/DOTA/)** 2위
-* *2016*, **[KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)** 최우수상
-* *2016*, **the Qualcomm-GIST Innovation Award** 수상
+* *2021년*, GIST에서 **최우수학부논문상**으로 학부 졸업
+* *2020년*, **[xView2 Challange](https://xview2.org/)** 5위
+* *2018년*, CVPR **[NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 4-5위
+* *2018년*, **[DOTA Challange](https://captain-whu.github.io/DOTA/)** 2위
+* *2016년*, **[KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)** 최우수상
+* *2016년*, **the Qualcomm-GIST Innovation Award** 수상
 
 ### 강연 및 발표
 * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
