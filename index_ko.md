@@ -14,13 +14,13 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 * 인간-컴퓨터 상호작용을 위한 지능형 센싱 기술
 
 ### 경력
-* *2020년 9월 - 현재*, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
-* *2017년 7월 - 2020년 2월*, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
+* 2020년 9월 - 현재, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
+* 2017년 7월 - 2020년 2월, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
 
 ### 교육
-* *2023년 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
+* 2023년 2월 - 현재, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
   * 문화기술대학원 석사 과정
-* *2014년 3월 - 2021년 2월*, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
+* 2014년 3월 - 2021년 2월, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
   * 학사, 전기전자 및 컴퓨터 공학 전공
 
 ### 출판 <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
