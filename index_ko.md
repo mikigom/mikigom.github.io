@@ -17,25 +17,33 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 * 2020년 9월 - 현재, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
 * 2017년 7월 - 2020년 2월, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
 
-### 교육
+### 학위
 * 2023년 2월 - 현재, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
   * 문화기술대학원 석사 과정
 * 2014년 3월 - 2021년 2월, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
   * 학사, 전기전자 및 컴퓨터 공학 전공
 
-### 출판 <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+### 출판 이력 <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
-* **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
-  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
+* **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
+  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and <U>Junghyo Jo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023.
+* **Prototype-oriented Unsupervised Change Detection for Disaster Management**
+  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://arxiv.org/abs/2310.09759) 
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
   - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">  
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523)
+* **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
+  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi
@@ -113,5 +121,6 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 * Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, application, 10-2023-0075347
 * Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
 * Method for detecting object, application, 10-2021-0168545
+* Method to detect object, application, 10-2021-0135451
 * Method to detect object, application, 10-2021-0135451
 * Method for data clustering, application, 10-2020-0107206
