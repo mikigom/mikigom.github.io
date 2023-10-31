@@ -109,6 +109,8 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 ### 특허
 * Method for detecting object, granted, 10-2364882
 * Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
+* Method for predicting frame using deep learning, application, 10-2023-0115699
+* Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, application, 10-2023-0075347
 * Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
 * Method for detecting object, application, 10-2021-0168545
 * Method to detect object, application, 10-2021-0135451
