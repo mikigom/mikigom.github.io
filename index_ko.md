@@ -30,7 +30,7 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
 * **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
   - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
-  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and <U>Junghyo Jo</U>
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and Junghyo Jo
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023.
 * **Prototype-oriented Unsupervised Change Detection for Disaster Management**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
