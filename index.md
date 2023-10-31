@@ -28,14 +28,22 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
-* **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
-  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
+* **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
+  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and <U>Junghyo Jo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023.
+* **Prototype-oriented Unsupervised Change Detection for Disaster Management**
+  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://arxiv.org/abs/2310.09759) 
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
   - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">  
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523)
+* **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
+  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi
