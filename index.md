@@ -12,6 +12,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * Machine Learning, Computer Vision, Computer Graphics, and their Applications to Remote Sensing
 * Parallel Computing on HPC and General-Purpose Computing on GPU
 * Intelligent Sensing Techniques for Human-Computer Interaction
+* Business Process Management and Policymaking for AI-driven Technology
 
 ### Career
 * *Sep 2020 - Current*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
