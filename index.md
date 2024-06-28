@@ -98,7 +98,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
 ##### Working Publications (Working Titiles, Under Review or On Working)
-- Hand Pressure Estimation in Object Interaction (2 Projects)
+- Pressure Estimation in Hand-based Interaction (2 Projects)
 - Pitfalls and Fixes in Attribution-based Explainer Evaluation (2 Projects)
 - Improved Off-policy Evaluation from Multiple Logging Policies
 - Improved Query-based Object Detection
