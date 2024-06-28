@@ -136,4 +136,4 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * Method for data clustering, application, 10-2020-0107206
 
 ### Note
-Due to confidentiality provisions related to the nature of the field, I cannot disclose the outline of the project to the public.
+Due to confidentiality provisions related to the field, I cannot disclose the outline of the project to the public.
