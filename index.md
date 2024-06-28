@@ -97,6 +97,12 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
+### Working Publications (Working Titiles, Under Review or On Working)
+- Hand Pressure Estimation in Object Interaction (2 Projects)
+- Pitfalls and Fixes in Attribution-based Explainer Evaluation (2 Projects)
+- Improved Off-policy Evaluation from Multiple Logging Policies
+- Improved Query-based Object Detection
+
 ### Award
 * *2021*, I graduated the college with **Best Undergraduate Thesis Award**
 * *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
@@ -127,3 +133,6 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * Method for detecting object, application, 10-2021-0168545
 * Method to detect object, application, 10-2021-0135451
 * Method for data clustering, application, 10-2020-0107206
+
+### About Project Information
+Due to confidentiality provisions related to the nature of the field, I cannot disclose the outline of the project to the public.
