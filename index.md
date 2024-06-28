@@ -135,5 +135,5 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * Method to detect object, application, 10-2021-0135451
 * Method for data clustering, application, 10-2020-0107206
 
-### About Project Information
+### Note
 Due to confidentiality provisions related to the nature of the field, I cannot disclose the outline of the project to the public.
