@@ -26,6 +26,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **A Billion-scale Foundation Model for Remote Sensing Images**
+* <a href="https://arxiv.org/abs/2304.05215">A Billion-scale Foundation Model for Remote Sensing Images</a>
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
@@ -44,7 +45,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
   - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">  
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523) [Video](https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness)
 * **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
   - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
