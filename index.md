@@ -105,7 +105,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 - Improved Query-based Object Detection
 
 ### Awards
-* *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner** in [CHI 2024](https://chi2024.acm.org/).
+* *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
 * *2021*, I graduated the college with **Best Undergraduate Thesis Award**
 * *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
 * *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)**
