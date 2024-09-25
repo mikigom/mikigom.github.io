@@ -6,7 +6,7 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
 
 
-Hi, I am the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](http://hcidesigner.weebly.com/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:jhseo@si-analytics.ai) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+Hi, I was the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](https://hcitech.org/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
 ### Specialties
 * Machine Learning, Computer Vision, Computer Graphics, and their Applications to Remote Sensing
@@ -15,7 +15,7 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
 * Process Management and Policymaking for AI-driven Product-Business Alignment
 
 ### Career
-* *Sep 2020 - Current*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+* *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Education
@@ -25,76 +25,61 @@ Hi, I am the technical leader of the research center at [SI Analytics](https://w
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+* **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. To be Appeared.
 * **A Billion-scale Foundation Model for Remote Sensing Images**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
 * **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and Junghyo Jo
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023.
 * **Prototype-oriented Unsupervised Change Detection for Disaster Management**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://arxiv.org/abs/2310.09759) 
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">  
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523) [Video](https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness)
 * **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
 * **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg)
 * **Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner**
-  - <img height="10" src="/assets/Field-Computer Vision-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Chaehyeon Lee, <U>Junghoon Seo</U>, and Heechul Jung
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> CVPR Workshop. 2021. [Link](https://arxiv.org/abs/2105.14693)
 * **On the Power of Deep but Naive Partial Label Learning**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U> and Joon Suk Huh
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE ICASSP. 2021. [Link](https://arxiv.org/abs/2010.11600)
 * **NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations**
-  - <img height="10" src="/assets/Field-Computer Vision-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yooseung Wang, <U>Junghoon Seo</U>, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. [Link](https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw)
 * **Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Seungwon Lee, Beomsu Kim, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2019. [Link](https://arxiv.org/abs/1910.01911)
 * **Deep Closed-Form Subspace Clustering**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Jamyoung Koo, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. [Link](https://arxiv.org/abs/1908.09419)
 * **Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg"> 
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. [Link](https://arxiv.org/abs/1902.04893)
 * **Bridging Adversarial Robustness and Gradient Interpretability**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICLR Workshop. 2019. [Link](https://arxiv.org/abs/1903.11626)
 * **RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM SIGSPATIAL. 2018. [Link](https://dl.acm.org/citation.cfm?id=3274915)
 * **Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative**
-  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICML Workshop. 2018. [Link](https://arxiv.org/abs/1806.03000)
 * **Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017. [Link](https://arxiv.org/abs/1806.03002)
 * **Multi-task Learning for Fine-grained Visual Classification of Aircraft**
-  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
