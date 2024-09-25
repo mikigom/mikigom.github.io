@@ -26,7 +26,7 @@ Hi, I was the technical leader of the research center at [SI Analytics](https://
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
-  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. To be Appeared.
 * **A Billion-scale Foundation Model for Remote Sensing Images**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
