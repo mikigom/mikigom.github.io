@@ -25,6 +25,9 @@ Hi, I was the technical leader of the research center at [SI Analytics](https://
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+* **Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer**
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. To be Appeared. [Link](https://arxiv.org/abs/2305.07598) 
 * **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. To be Appeared.
