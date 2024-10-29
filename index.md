@@ -6,7 +6,7 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
 
 
-Hi, I was the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sangho Yoon](https://hcitech.org/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+Hi, I was the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sang Ho Yoon](https://hcitech.org/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
 ### Specialties
 * Machine Learning, Computer Vision, Computer Graphics, and their Applications to Remote Sensing
