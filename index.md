@@ -6,20 +6,21 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
 
 
-Hi, I was the technical leader of the research center at [SI Analytics](https://www.si-analytics.ai/eng), a satellite/aerial imagery analysis company in South Korea. At the same time, I also study for a Master's degree at [KAIST HCI Tech Lab](https://hcitech.org/) ([Prof. Sang Ho Yoon](https://hcitech.org/)). My main scope of work is directing research projects on computer vision and machine learning for remote sensing. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique for human-computer interaction. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pitin-ev.com/). My main scope of work is directing research projects on computer vision and machine learning. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
 ### Specialties
-* Machine Learning, Computer Vision, Computer Graphics, and their Applications to Remote Sensing
+* Machine Learning, Computer Vision, and Computer Graphics
 * Parallel Computing on HPC and General-Purpose Computing on GPU
 * Intelligent Sensing Techniques for Human-Computer Interaction
 * Process Management and Policymaking for AI-driven Product-Business Alignment
 
 ### Career
+* *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
 * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
 * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
 
 ### Education
-* *Feb 2023 - Current*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+* *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   * Studying for Master's degree in Graduate School of Culture Technology
 * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
@@ -90,7 +91,6 @@ Hi, I was the technical leader of the research center at [SI Analytics](https://
 - Pressure Estimation in Hand-based Interaction (2 Projects)
 - Pitfalls and Fixes in Attribution-based Explainer Evaluation (2 Projects)
 - Improved Off-policy Evaluation from Multiple Logging Policies
-- Improved Query-based Object Detection
 
 ### Awards
 * *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
