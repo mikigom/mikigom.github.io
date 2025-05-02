@@ -26,12 +26,15 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+* **Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries**
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. To be Appeared.
 * **Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. To be Appeared. [Link](https://arxiv.org/abs/2305.07598) 
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. [Link](https://arxiv.org/abs/2305.07598) 
 * **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. To be Appeared.
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024.
 * **A Billion-scale Foundation Model for Remote Sensing Images**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
