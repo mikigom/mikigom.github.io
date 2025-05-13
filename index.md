@@ -34,7 +34,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. [Link](https://arxiv.org/abs/2305.07598) 
 * **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024.
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. [Link](https://neurips.cc/virtual/2024/poster/95565)
 * **A Billion-scale Foundation Model for Remote Sensing Images**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
