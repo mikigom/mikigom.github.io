@@ -91,8 +91,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
 ### Under Review / On-going Scripts <span style="font-size:0.6em;">(Working Titles)</span>
-- Pressure Estimation in Hand-based Interaction (2 Projects)
-- Pitfalls and Fixes in Attribution-based Explainer Evaluation (2 Projects)
+- Pressure Estimation in Hand-based Interaction (1 Projects)
 - Improved Off-policy Evaluation from Multiple Logging Policies
 
 ### Awards
