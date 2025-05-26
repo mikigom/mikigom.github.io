@@ -28,7 +28,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. To be Appeared.
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. [Link](https://ieeexplore.ieee.org/document/11011314)
 * **Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. [Link](https://arxiv.org/abs/2305.07598) 
@@ -43,7 +43,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
 * **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and Junghyo Jo
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023.
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://openreview.net/forum?id=gh69Bu7k48)
 * **Prototype-oriented Unsupervised Change Detection for Disaster Management**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U>
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://arxiv.org/abs/2310.09759) 
