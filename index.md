@@ -90,7 +90,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
 
-### Under Review / On-going Scripts
+### Working Titles Under Review
 - Pressure Estimation for Hand-based Interaction
 - Hand-Raycasting with Hand Force
 - Off-policy Evaluation from Multiple Logging Policies
