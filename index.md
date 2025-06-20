@@ -6,13 +6,12 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 <div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
 
 
-Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pitin-ev.com/). My main scope of work is directing research projects on computer vision and machine learning. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pitin-ev.com/). My current main scope at work is directing research projects on computer vision and machine learning for robotics and automation. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
 
 ### Specialties
 * Machine Learning, Computer Vision, and Computer Graphics
 * Parallel Computing on HPC and General-Purpose Computing on GPU
 * Intelligent Sensing Techniques for Human-Computer Interaction
-* Process Management and Policymaking for AI-driven Product-Business Alignment
 
 ### Career
 * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
