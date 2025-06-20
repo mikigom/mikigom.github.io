@@ -21,7 +21,8 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 
 ### Education
 * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-  * Studying for Master's degree in Graduate School of Culture Technology
+  * Master's degree in Graduate School of Culture Technology
+  * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
 * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
   * B.S degree, Major in Electrical Engineering and Computer Science
 
