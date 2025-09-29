@@ -26,6 +26,9 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
   * B.S degree, Major in Electrical Engineering and Computer Science
 
 ### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+* **Thumb Force Estimation with Egocentric Vision**
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hanseok Jeong, <U>Junghoon Seo</U>, Sang Ho Yoon
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM UIST Demo. 2025. [Link](https://dl.acm.org/doi/10.1145/3746058.3760441)
 * **Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. [Link](https://ieeexplore.ieee.org/document/11011314)
