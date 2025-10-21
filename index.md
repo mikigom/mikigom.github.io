@@ -115,11 +115,9 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
 
 ### Review-serving
-* IEEE Transactions on Pattern Analysis and Machine Intelligence
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Geoscience and Remote Sensing Letters
-* Several Conferences including NeurIPS, CVPR, AISTATS, BMVC...
-* Several Workshops on ICCV, ICLR, CVPR...
+* IEEE TPAMI, TNNLS,..
+* IEEE TGRS, GRSL,..
+* ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25,..
 
 ### Patents
 * Method for detecting object, granted, 10-2364882
