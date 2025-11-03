@@ -98,6 +98,7 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 - Hand-Raycasting with Hand Force
 - Off-policy Evaluation from Multiple Logging Policies
 - Monocular RGB Category-level Multi-object Pose Estimation
+- Efficient and Robust Camera Calibration
 
 ### Awards
 * *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
