@@ -150,7 +150,7 @@ show_title: false
 <article class="card" markdown="1">
 #### Awards & Honors
   * *2024*, Lab demo project selected as **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**
-  * *2021*, Graduated with **Best Undergraduate Thesis Award** from GIST
+  * *2021*, **Best Undergraduate Thesis Award** from GIST
   * *2020*, **5th place in [xView2 Challenge](https://xview2.org/)**
   * *2018*, **3rd-4th place in CVPR [NTIRE Super-resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire18/)**
   * *2018*, **2nd place in [DOTA Challenge](https://captain-whu.github.io/DOTA/)**
