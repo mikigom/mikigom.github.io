@@ -11,7 +11,7 @@ show_title: false
 <section class="profile-hero">
   <div class="profile-hero__text">
     <h1>Junghoon Seo</h1>
-    <p class="lede">Leading computer vision and machine learning research for AI robotics. Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
+    <p class="lede">Leading computer vision and machine learning research for AI robotics @ PIT IN Corp. Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
     <div class="chip-row">
       <span class="chip">Computer Vision</span>
       <span class="chip">Machine Learning</span>
