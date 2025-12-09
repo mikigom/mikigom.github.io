@@ -2,6 +2,7 @@
 title: 서정훈
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 full_width: true
+show_title: false
 ---
 
 <div class="profile-page">

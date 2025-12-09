@@ -3,6 +3,7 @@ title: Junghoon Seo
 layout: page
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 aside: false
+show_title: false
 ---
 
 <div class="profile-page">
