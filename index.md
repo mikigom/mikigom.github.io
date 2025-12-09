@@ -1,5 +1,6 @@
 ---
 title: Junghoon Seo
+layout: default
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 full_width: true
 ---
