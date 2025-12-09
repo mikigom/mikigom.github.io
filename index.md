@@ -8,52 +8,56 @@ full_width: true
 
 <section class="profile-hero">
   <div class="profile-hero__text">
-    <p class="eyebrow">Principal Researcher · AI Robot Team @ PIT IN Corp.</p>
+    <p class="eyebrow">Principal Researcher · AI Robot Team · PIT IN Corp.</p>
     <h1>Junghoon Seo</h1>
-    <p class="lede">I direct computer vision and machine learning research for robotics and automation, and I enjoy building bridges to computer graphics, parallel computing, and intelligent sensing. Feel free to reach out for collaboration.</p>
+    <p class="lede">Leading computer vision and machine learning research for AI robotics. Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
     <div class="profile-hero__actions">
-      <a class="hero-button" href="mailto:s3213403@gmail.com">Email</a>
+      <a class="hero-button" href="mailto:s3213403@gmail.com">Email Me</a>
       <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
+      <a class="hero-button hero-button--ghost" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar</a>
     </div>
     <div class="chip-row">
-      <span class="chip">Machine Learning & Computer Vision</span>
-      <span class="chip">Intelligent Sensing & Machine Vision</span>
-      <span class="chip">GPU & Parallel Computing</span>
+      <span class="chip">Computer Vision</span>
+      <span class="chip">Machine Learning</span>
+      <span class="chip">Remote Sensing</span>
+      <span class="chip">GPGPU/HPC</span>
+      <span class="chip">HCI Sensing</span>
     </div>
   </div>
   <div class="profile-hero__media">
     <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
-    <div class="profile-hero__tag">Based in Daejeon & Seoul · Open to collaboration</div>
+    <div class="profile-hero__tag">Daejeon/Seoul · Open to Collaboration</div>
   </div>
 </section>
 
 <section class="card-grid">
-  <article class="card  card--pills" markdown="1">
+  <article class="card card--pills" markdown="1">
   #### Specialties
-  * Machine Learning, Computer Vision, and Computer Graphics
-  * Parallel Computing on HPC and General-Purpose Computing on GPU
+  * Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications
+  * Parallel Computing on HPC and GPGPU
   * Intelligent Sensing Techniques for Human-Computer Interaction
   </article>
 
-  <article class="card  card--timeline" markdown="1">
+  <article class="card card--timeline" markdown="1">
   #### Career
   * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
   * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
   * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
   </article>
 
-  <article class="card  card--timeline" markdown="1">
+  <article class="card card--timeline" markdown="1">
   #### Education
-  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea  
-    * Master's degree in Graduate School of Culture Technology  
+  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+    * Master's degree in Graduate School of Culture Technology
     * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
-  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea  
+  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
     * B.S degree, Major in Electrical Engineering and Computer Science
   </article>
 </section>
 
-<section class="card  card--wide  card--papers" markdown="1">
+<section class="card card--wide card--papers" markdown="1">
 #### Publications <span style="font-size:0.8em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+
 * **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
@@ -126,7 +130,7 @@ full_width: true
 </section>
 
 <section class="card-grid">
-  <article class="card  card--pills" markdown="1">
+  <article class="card card--pills" markdown="1">
   #### Working Titles Under Review
   - Pressure Estimation for Hand-based Interaction
   - Off-policy Evaluation from Multiple Logging Policies
@@ -135,37 +139,37 @@ full_width: true
   </article>
 
   <article class="card" markdown="1">
-  #### Awards
-  * *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
-  * *2021*, I graduated the college with **Best Undergraduate Thesis Award**.
-  * *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
-  * *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)**.
-  * *2018*, my team ranked **the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)**.
-  * *2016*, my team got **the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**.
-  * *2016*, I got **the Qualcomm-GIST Innovation Award**.
+  #### Awards & Honors
+  * *2024*, Lab demo project selected as **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**
+  * *2021*, Graduated with **Best Undergraduate Thesis Award** from GIST
+  * *2020*, **5th place in [xView2 Challenge](https://xview2.org/)**
+  * *2018*, **3rd-4th place in CVPR [NTIRE Super-resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire18/)**
+  * *2018*, **2nd place in [DOTA Challenge](https://captain-whu.github.io/DOTA/)**
+  * *2016*, **Grand Prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**
+  * *2016*, **Qualcomm-GIST Innovation Award**
   </article>
 </section>
 
 <section class="card-grid">
   <article class="card" markdown="1">
-  #### Talks
+  #### Invited Talks
   * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
   * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
-  * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
-  * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
+  * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Slides](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
+  * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Slides](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
   </article>
 
   <article class="card" markdown="1">
-  #### Review-serving
-  * Journals: IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL,...
-  * Conferences: ICLR `26, CVPR `26, AISTATS `26, NeurIPS `25, ICML `25,..
+  #### Review Services
+  * **Journals:** IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more
+  * **Conferences:** ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25, and others
   </article>
 </section>
 
-<section class="card  card--wide" markdown="1">
+<section class="card card--wide" markdown="1">
 #### Patents
-* Method for detecting object, granted, 10-2364882
-* Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
+* Method for detecting object, **granted**, 10-2364882
+* Method for detecting on-the-fly disaster damage based on image, **granted**, 10-2255998
 * Method for predicting frame using deep learning, application, 10-2023-0115699
 * Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, application, 10-2023-0075347
 * Method of training object prediction models using ambiguous labels, application, 10-2022-0000169

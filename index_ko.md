@@ -46,16 +46,41 @@ full_width: true
 
   <article class="card  card--timeline" markdown="1">
   #### 학위
-  * *2023년 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국  
-    * 문화기술대학원 석사 과정  
-    * [HCI Tech Lab](https://hcitech.org/)
+  * *2023년 3월 - 2025년 2월*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국  
+    * 문화기술대학원 석사 학위  
+    * [HCI Tech Lab](https://hcitech.org/), 지도교수: [윤상호](https://sanghoy.com/) 교수
   * *2014년 3월 - 2021년 2월*, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국  
-    * 학사, 전기전자 및 컴퓨터 공학 전공
+    * 학사 학위, 전기전자 및 컴퓨터 공학 전공
   </article>
 </section>
 
 <section class="card  card--wide  card--papers" markdown="1">
 #### 출판 이력 <span style="font-size:0.8em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+
+* **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
+  - <img height="10" src="/assets/Field-Computer Vision-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+* **Thumb Force Estimation with Egocentric Vision**
+  - <img height="10" src="/assets/Field-Computer Vision-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hanseok Jeong, <U>Junghoon Seo</U>, Sang Ho Yoon
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM UIST Demo. 2025. [Link](https://dl.acm.org/doi/10.1145/3746058.3760441)
+* **Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries**
+  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. [Link](https://ieeexplore.ieee.org/document/11011314)
+* **Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer**
+  - <img height="10" src="/assets/Field-Computer Vision-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. [Link](https://arxiv.org/abs/2305.07598) 
+* **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
+  - <img height="10" src="/assets/Field-Machine Learning-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. [Link](https://neurips.cc/virtual/2024/poster/95565)
+* **A Billion-scale Foundation Model for Remote Sensing Images**
+  - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
+  - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
@@ -138,12 +163,13 @@ full_width: true
 
   <article class="card" markdown="1">
   #### 수상 경력
+  * *2024년*, 진행한 프로젝트를 포함한 랩 데모가 **[CHI 2024](https://chi2024.acm.org/) Popular Choice Winner** 선정
   * *2021년*, GIST에서 **최우수학부논문상**으로 학부 졸업
-  * *2020년*, **[xView2 Challange](https://xview2.org/)** 5위
-  * *2018년*, CVPR **[NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 4-5위
-  * *2018년*, **[DOTA Challange](https://captain-whu.github.io/DOTA/)** 2위
+  * *2020년*, **[xView2 Challenge](https://xview2.org/)** 5위
+  * *2018년*, CVPR **[NTIRE Super-resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 3-4위
+  * *2018년*, **[DOTA Challenge](https://captain-whu.github.io/DOTA/)** 2위
   * *2016년*, **[KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)** 최우수상
-  * *2016년*, **the Qualcomm-GIST Innovation Award** 수상
+  * *2016년*, **Qualcomm-GIST Innovation Award** 수상
   </article>
 </section>
 
@@ -158,29 +184,26 @@ full_width: true
 
   <article class="card" markdown="1">
   #### 리뷰어 활동
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence
-  * IEEE Transactions on Neural Networks and Learning Systems
-  * IEEE Geoscience and Remote Sensing Letters
-  * Several Conferences including CVPR, AISTATS, BMVC...
-  * Several Workshops on ICCV, ICLR, CVPR...
+  * **저널:** IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL 등
+  * **학회:** ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25 등
   </article>
 </section>
 
 <section class="card  card--wide" markdown="1">
 #### 특허
-* Method for detecting object, granted, 10-2364882
-* Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
-* Method for predicting frame using deep learning, application, 10-2023-0115699
-* Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, application, 10-2023-0075347
-* Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
-* Method for detecting object, application, 10-2021-0168545
-* Method to detect object, application, 10-2021-0135451
-* Method for data clustering, application, 10-2020-0107206
+* Method for detecting object, **등록**, 10-2364882
+* Method for detecting on-the-fly disaster damage based on image, **등록**, 10-2255998
+* Method for predicting frame using deep learning, 출원, 10-2023-0115699
+* Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, 출원, 10-2023-0075347
+* Method of training object prediction models using ambiguous labels, 출원, 10-2022-0000169
+* Method for detecting object, 출원, 10-2021-0168545
+* Method to detect object, 출원, 10-2021-0135451
+* Method for data clustering, 출원, 10-2020-0107206
 </section>
 
-<section class="card  note-callout" markdown="1">
-**Note**  
-Due to confidentiality provisions related to the field, I cannot disclose the outline of the project to the public.
+<section class="note-callout" markdown="1">
+**참고**  
+업무 분야의 보안 규정으로 인해 일부 진행 중인 프로젝트의 상세 내용은 공개할 수 없습니다.
 </section>
 
 </div>

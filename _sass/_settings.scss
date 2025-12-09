@@ -1,21 +1,21 @@
 // Background colours
 $backgroundColour: #ffffff !default;
-$codeBackgroundColour: #fafafa !default;
-$featureBackgroundColour: #f9fafa !default;
+$codeBackgroundColour: #f5f7f9 !default;
+$featureBackgroundColour: #f0f9f6 !default;
 $accentColour: #05bf85 !default;
 
 // Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
+$headingColour: #1a1a2e !default;
+$bodyColour: #2d3748 !default;
 $linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
-$captionColour: #a8adac !default;
+$hoverColour: #04a572 !default;
+$focusColour: #05bf85 !default;
+$captionColour: #718096 !default;
 $white: #ffffff !default;
 
-// Typography
+// Typography - Using modern, readable fonts
 $bodytype: (
-  font-family: "Georgia, serif",
+  font-family: '"Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,14 +23,14 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
-  regular: 400,
+  font-family: '"Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
+  regular: 500,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Menlo, monospace",
+  font-family: '"SF Mono", "Monaco", "Inconsolata", "Fira Code", "Fira Mono", "Roboto Mono", monospace',
   regular: 400,
   cap-height: 0.68
 ) !default;
