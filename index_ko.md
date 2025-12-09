@@ -1,29 +1,61 @@
 ---
 title: 서정훈
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
+full_width: true
 ---
 
-서정훈은 한국의 위성/항공 이미지 분석 회사인 SI Analytics의 연구 센터 기술 책임자입니다.
-동시에 KAIST HCI Tech Lab (지도교수: 윤상호 교수)에서 석사과정 중에 있습니다.
-주요 업무 범위는 원격 탐사 응용을 위한 컴퓨터 비전 및 기계 학습에 대한 연구 프로젝트를 지원하고 관리하는 것입니다.
-그 외에도 컴퓨터 그래픽스, 병렬 컴퓨팅, 그리고 인간-컴퓨터 상호 작용을 위한 지능형 센싱 기술 등에 관심이 있으며 유관 경험이 있습니다. 
+<div class="profile-page">
 
-### 전문 분야
-* 머신러닝, 컴퓨터 비전, 컴퓨터 그래픽스, 그리고 이의 원격 탐사로의 응용
-* 고성능컴퓨팅에서의 병렬 컴퓨팅 및 GPGPU
-* 인간-컴퓨터 상호작용을 위한 지능형 센싱 기술
+<section class="profile-hero">
+  <div class="profile-hero__text">
+    <p class="eyebrow">AI Robot Team · PIT IN Corp.</p>
+    <h1>서정훈</h1>
+    <p class="lede">자율주행과 로보틱스를 위한 컴퓨터 비전·머신러닝 연구를 이끄는 수석연구원입니다. 위성/항공 이미지와 HCI 센싱까지 폭넓게 다루며, GPU 병렬 컴퓨팅과 컴퓨터 그래픽스에도 관심이 많습니다.</p>
+    <div class="profile-hero__actions">
+      <a class="hero-button" href="mailto:s3213403@gmail.com">Email</a>
+      <a class="hero-button  hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
+    </div>
+    <div class="chip-row">
+      <span class="chip">컴퓨터 비전</span>
+      <span class="chip">머신러닝</span>
+      <span class="chip">원격탐사</span>
+      <span class="chip">GPGPU/병렬컴퓨팅</span>
+      <span class="chip">HCI 센싱</span>
+    </div>
+  </div>
+  <div class="profile-hero__media">
+    <img src="/assets/YN2n7fI_.jpg" alt="서정훈" />
+    <div class="profile-hero__tag">대전·서울 기반 · 협업 환영</div>
+  </div>
+</section>
 
-### 경력
-* 2020년 9월 - 현재, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
-* 2017년 7월 - 2020년 2월, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
+<section class="card-grid">
+  <article class="card  card--pills" markdown="1">
+  #### 전문 분야
+  * 머신러닝, 컴퓨터 비전, 컴퓨터 그래픽스, 그리고 원격 탐사 응용
+  * 고성능컴퓨팅에서의 병렬 컴퓨팅 및 GPGPU
+  * 인간-컴퓨터 상호작용을 위한 지능형 센싱 기술
+  </article>
 
-### 학위
-* 2023년 2월 - 현재, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국
-  * 문화기술대학원 석사 과정
-* 2014년 3월 - 2021년 2월, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국
-  * 학사, 전기전자 및 컴퓨터 공학 전공
+  <article class="card  card--timeline" markdown="1">
+  #### 경력
+  * *2024년 12월 - 현재*, AI Robot Team 수석연구원 @ [PIT IN Corp.](https://pitin-ev.com/)
+  * *2020년 9월 - 2024년 9월*, 인공지능연구소 기술 리더 & 공동 창업자 @ [SI Analytics](https://www.si-analytics.ai/eng)
+  * *2017년 7월 - 2020년 2월*, 머신러닝 및 컴퓨터 비전 연구원 @ [Satrec Initiative](https://www.satreci.com/)
+  </article>
 
-### 출판 이력 <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+  <article class="card  card--timeline" markdown="1">
+  #### 학위
+  * *2023년 2월 - 현재*, [KAIST](https://www.kaist.ac.kr/en/), 대전, 대한민국  
+    * 문화기술대학원 석사 과정  
+    * [HCI Tech Lab](https://hcitech.org/)
+  * *2014년 3월 - 2021년 2월*, [GIST](https://www.gist.ac.kr/en/main.html), 광주, 대한민국  
+    * 학사, 전기전자 및 컴퓨터 공학 전공
+  </article>
+</section>
+
+<section class="card  card--wide  card--papers" markdown="1">
+#### 출판 이력 <span style="font-size:0.8em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
@@ -92,29 +124,50 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
   - <img height="10" src="/assets/Field-Remote Sensing-lightgrey.svg">
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
+</section>
 
-### 수상 경력
-* *2021년*, GIST에서 **최우수학부논문상**으로 학부 졸업
-* *2020년*, **[xView2 Challange](https://xview2.org/)** 5위
-* *2018년*, CVPR **[NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 4-5위
-* *2018년*, **[DOTA Challange](https://captain-whu.github.io/DOTA/)** 2위
-* *2016년*, **[KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)** 최우수상
-* *2016년*, **the Qualcomm-GIST Innovation Award** 수상
+<section class="card-grid">
+  <article class="card  card--pills" markdown="1">
+  #### 리뷰 중인 작업 타이틀
+  - Pressure Estimation for Hand-based Interaction
+  - Hand-Raycasting with Hand Force
+  - Off-policy Evaluation from Multiple Logging Policies
+  - Monocular RGB Category-level Multi-object Pose Estimation
+  - Efficient and Robust Camera Calibration
+  </article>
 
-### 강연 및 발표
-* **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
-* **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
-* **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
-* **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
+  <article class="card" markdown="1">
+  #### 수상 경력
+  * *2021년*, GIST에서 **최우수학부논문상**으로 학부 졸업
+  * *2020년*, **[xView2 Challange](https://xview2.org/)** 5위
+  * *2018년*, CVPR **[NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)** 4-5위
+  * *2018년*, **[DOTA Challange](https://captain-whu.github.io/DOTA/)** 2위
+  * *2016년*, **[KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)** 최우수상
+  * *2016년*, **the Qualcomm-GIST Innovation Award** 수상
+  </article>
+</section>
 
-### 리뷰어 활동
-* IEEE Transactions on Pattern Analysis and Machine Intelligence
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Geoscience and Remote Sensing Letters
-* Several Conferences including CVPR, AISTATS, BMVC...
-* Several Workshops on ICCV, ICLR, CVPR...
+<section class="card-grid">
+  <article class="card" markdown="1">
+  #### 강연 및 발표
+  * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
+  * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
+  * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
+  * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
+  </article>
 
-### 특허
+  <article class="card" markdown="1">
+  #### 리뷰어 활동
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
+  * IEEE Transactions on Neural Networks and Learning Systems
+  * IEEE Geoscience and Remote Sensing Letters
+  * Several Conferences including CVPR, AISTATS, BMVC...
+  * Several Workshops on ICCV, ICLR, CVPR...
+  </article>
+</section>
+
+<section class="card  card--wide" markdown="1">
+#### 특허
 * Method for detecting object, granted, 10-2364882
 * Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
 * Method for predicting frame using deep learning, application, 10-2023-0115699
@@ -122,5 +175,12 @@ thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 * Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
 * Method for detecting object, application, 10-2021-0168545
 * Method to detect object, application, 10-2021-0135451
-* Method to detect object, application, 10-2021-0135451
 * Method for data clustering, application, 10-2020-0107206
+</section>
+
+<section class="card  note-callout" markdown="1">
+**Note**  
+Due to confidentiality provisions related to the field, I cannot disclose the outline of the project to the public.
+</section>
+
+</div>

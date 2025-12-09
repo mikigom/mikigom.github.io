@@ -1,31 +1,60 @@
 ---
 title: Junghoon Seo
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
+full_width: true
 ---
 
-<div style="text-align: center"><img src="/assets/YN2n7fI_.jpg" width="250" /></div>
+<div class="profile-page">
 
+<section class="profile-hero">
+  <div class="profile-hero__text">
+    <p class="eyebrow">AI Robot Team · PIT IN Corp.</p>
+    <h1>Junghoon Seo</h1>
+    <p class="lede">Principal researcher directing computer vision and machine learning for robotics and automation. I also explore computer graphics, GPU/parallel computing, and intelligent sensing.</p>
+    <div class="profile-hero__actions">
+      <a class="hero-button" href="mailto:s3213403@gmail.com">Email</a>
+      <a class="hero-button  hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
+    </div>
+    <div class="chip-row">
+      <span class="chip">Computer Vision</span>
+      <span class="chip">Machine Learning</span>
+      <span class="chip">Robotics</span>
+      <span class="chip">GPU Computing</span>
+    </div>
+  </div>
+  <div class="profile-hero__media">
+    <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
+    <div class="profile-hero__tag">Based in South Korea · Open to collaborations</div>
+  </div>
+</section>
 
-Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pitin-ev.com/). My current main scope at work is directing research projects on computer vision and machine learning for robotics and automation. Besides, I am interested in computer graphics, parallel computing, and intelligent sensing technique. Don't hesitate to contact me via [Email](mailto:s3213403@gmail.com) or [LinkedIn](https://www.linkedin.com/in/junghoon-seo/) if you have any business!
+<section class="card-grid">
+  <article class="card  card--pills" markdown="1">
+  #### Specialties
+  * Machine Learning, Computer Vision, and Computer Graphics
+  * Parallel Computing on HPC and General-Purpose Computing on GPU
+  * Intelligent Sensing Techniques for Human-Computer Interaction
+  </article>
 
-### Specialties
-* Machine Learning, Computer Vision, and Computer Graphics
-* Parallel Computing on HPC and General-Purpose Computing on GPU
-* Intelligent Sensing Techniques for Human-Computer Interaction
+  <article class="card  card--timeline" markdown="1">
+  #### Career
+  * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
+  * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
+  * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+  </article>
 
-### Career
-* *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
-* *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
-* *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+  <article class="card  card--timeline" markdown="1">
+  #### Education
+  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea  
+    * Master's degree in Graduate School of Culture Technology  
+    * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
+  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea  
+    * B.S degree, Major in Electrical Engineering and Computer Science
+  </article>
+</section>
 
-### Education
-* *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-  * Master's degree in Graduate School of Culture Technology
-  * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
-* *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
-  * B.S degree, Major in Electrical Engineering and Computer Science
-
-### Publications <span style="font-size:0.6em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+<section class="card  card--wide  card--papers" markdown="1">
+#### Publications <span style="font-size:0.8em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
 * **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
@@ -95,34 +124,48 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 * **Multi-task Learning for Fine-grained Visual Classification of Aircraft**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
+</section>
 
-### Working Titles Under Review
-- Pressure Estimation for Hand-based Interaction
-- Hand-Raycasting with Hand Force
-- Off-policy Evaluation from Multiple Logging Policies
-- Monocular RGB Category-level Multi-object Pose Estimation
-- Efficient and Robust Camera Calibration
+<section class="card-grid">
+  <article class="card  card--pills" markdown="1">
+  #### Working Titles Under Review
+  - Pressure Estimation for Hand-based Interaction
+  - Hand-Raycasting with Hand Force
+  - Off-policy Evaluation from Multiple Logging Policies
+  - Monocular RGB Category-level Multi-object Pose Estimation
+  - Efficient and Robust Camera Calibration
+  </article>
 
-### Awards
-* *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
-* *2021*, I graduated the college with **Best Undergraduate Thesis Award**.
-* *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
-* *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)**.
-* *2018*, my team ranked **the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)**.
-* *2016*, my team got **the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**.
-* *2016*, I got **the Qualcomm-GIST Innovation Award**.
+  <article class="card" markdown="1">
+  #### Awards
+  * *2024*, my lab’s demo, which included the project I was leading, had been selected as the **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**.
+  * *2021*, I graduated the college with **Best Undergraduate Thesis Award**.
+  * *2020*, my team ranked **the 5th place in [xView2 Challange](https://xview2.org/)**.
+  * *2018*, my team ranked **the 3rd-4th place in CVPR [NTIRE Super-resolution Challange](https://data.vision.ee.ethz.ch/cvl/ntire18/)**.
+  * *2018*, my team ranked **the 2nd place in [DOTA Challange](https://captain-whu.github.io/DOTA/)**.
+  * *2016*, my team got **the grand prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**.
+  * *2016*, I got **the Qualcomm-GIST Innovation Award**.
+  </article>
+</section>
 
-### Talks
-* **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
-* **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
-* **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
-* **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
+<section class="card-grid">
+  <article class="card" markdown="1">
+  #### Talks
+  * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
+  * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
+  * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Presentation](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
+  * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Presentation](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
+  </article>
 
-### Review-serving
-* Journals: IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL,...
-* Conferences: ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25,..
+  <article class="card" markdown="1">
+  #### Review-serving
+  * Journals: IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL,...
+  * Conferences: ICLR `26, CVPR `26, AISTATS `26, NeurIPS `25, ICML `25,.. 
+  </article>
+</section>
 
-### Patents
+<section class="card  card--wide" markdown="1">
+#### Patents
 * Method for detecting object, granted, 10-2364882
 * Method for detecting on-the-fly disaster damage based on image, granted, 10-2255998
 * Method for predicting frame using deep learning, application, 10-2023-0115699
@@ -131,6 +174,11 @@ Hi, I am the principal researcher of AI Robot Team at [PIT IN Corp.](https://pit
 * Method for detecting object, application, 10-2021-0168545
 * Method to detect object, application, 10-2021-0135451
 * Method for data clustering, application, 10-2020-0107206
+</section>
 
-### Note
+<section class="card  note-callout" markdown="1">
+**Note**  
 Due to confidentiality provisions related to the field, I cannot disclose the outline of the project to the public.
+</section>
+
+</div>
