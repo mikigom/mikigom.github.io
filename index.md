@@ -129,7 +129,6 @@ full_width: true
   <article class="card  card--pills" markdown="1">
   #### Working Titles Under Review
   - Pressure Estimation for Hand-based Interaction
-  - Hand-Raycasting with Hand Force
   - Off-policy Evaluation from Multiple Logging Policies
   - Monocular RGB Category-level Multi-object Pose Estimation
   - Efficient and Robust Camera Calibration
