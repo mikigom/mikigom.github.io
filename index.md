@@ -64,7 +64,7 @@ show_title: false
   * Reliable Perception for AI Robotics
   * High-precision Photogrammetry
   * AI Agent for User-friendly Automation
-  * Parallel/Efficient Computation for Robotics
+  * Parallel/Efficient Computing Methods for Robotics
 </article>
 </section>
 
