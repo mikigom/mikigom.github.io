@@ -1,8 +1,8 @@
 ---
 title: Junghoon Seo
-layout: default
+layout: page
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
-full_width: true
+aside: false
 ---
 
 <div class="profile-page">
