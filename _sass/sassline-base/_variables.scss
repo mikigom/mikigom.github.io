@@ -13,14 +13,14 @@ $breakpoints: (
   break-4: 1600   // 1600px  ~ Large desktop up
 ) !default;
 
-// Root font-sizes for each breakpoint. Set to half desired line-height of body text.
+// Root font-sizes for each breakpoint. Keep consistent so type reads the same across devices.
 // ! Make sure to have as many sizes as breakpoints above.
 $rootsizes: (
-  rootsize-0: 7,   // 24px line-height body text
-  rootsize-1: 8,   // 28px line-height body text
-  rootsize-2: 9,   // 30px line-height body text
-  rootsize-3: 10,   // 34px line-height body text
-  rootsize-4: 12    // 38px line-height body text
+  rootsize-0: 10,
+  rootsize-1: 10,
+  rootsize-2: 10,
+  rootsize-3: 10,
+  rootsize-4: 10
 ) !default;
 
 // Set the optimum line-length for your text (based on typeface).
