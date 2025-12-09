@@ -15,12 +15,14 @@ show_title: false
     <div class="chip-row">
       <span class="chip">Computer Vision</span>
       <span class="chip">Machine Learning</span>
+      <span class="chip">AI Robotics</span>
       <span class="chip">Remote Sensing</span>
       <span class="chip">GPGPU/HPC</span>
       <span class="chip">HCI Sensing</span>
     </div>
     <div class="profile-hero__actions">
       <a class="hero-button" href="mailto:s3213403@gmail.com">Email Me</a>
+      <span class="profile-hero__actions-break" aria-hidden="true"></span>
       <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
       <a class="hero-button hero-button--ghost" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar</a>
     </div>
