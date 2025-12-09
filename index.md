@@ -10,29 +10,19 @@ show_title: false
 
 <section class="profile-hero">
   <div class="profile-hero__text">
-    <div class="eyebrow-row">
-      <span class="eyebrow">Principal Researcher · AI Robot Team</span>
-      <span class="eyebrow eyebrow--muted">PIT IN Corp.</span>
-    </div>
     <h1>Junghoon Seo</h1>
     <p class="lede">Leading computer vision and machine learning research for AI robotics. Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
-    <div class="profile-hero__meta">
-      <span class="meta-pill">Daejeon / Seoul</span>
-      <span class="meta-pill">Open to collaboration</span>
-      <span class="meta-pill">AI Robotics · CV · HCI</span>
-      <span class="meta-pill">GPU-first pipelines</span>
-    </div>
-    <div class="profile-hero__actions">
-      <a class="hero-button" href="mailto:s3213403@gmail.com">Email Me</a>
-      <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
-      <a class="hero-button hero-button--ghost" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar</a>
-    </div>
     <div class="chip-row">
       <span class="chip">Computer Vision</span>
       <span class="chip">Machine Learning</span>
       <span class="chip">Remote Sensing</span>
       <span class="chip">GPGPU/HPC</span>
       <span class="chip">HCI Sensing</span>
+    </div>
+    <div class="profile-hero__actions">
+      <a class="hero-button" href="mailto:s3213403@gmail.com">Email Me</a>
+      <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
+      <a class="hero-button hero-button--ghost" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar</a>
     </div>
   </div>
   <div class="profile-hero__media">
@@ -44,25 +34,27 @@ show_title: false
 </section>
 
 <section class="card-grid">
-<article class="card card--pills" markdown="1">
-#### Specialties
-  * Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications
-  * Parallel Computing on HPC and GPGPU
-  * Intelligent Sensing Techniques for Human-Computer Interaction
-</article>
-
-<article class="card card--pills" markdown="1">
+<article class="card card--pills card--wide" markdown="1">
 #### Current Focus
   * Reliable perception for AI robotics and products
   * GPU-accelerated training, evaluation, and scaling
   * Human-computer sensing and natural interaction
 </article>
 
-<article class="card card--timeline" markdown="1">
+<article class="card card--timeline card--wide" markdown="1">
 #### Career
   * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
   * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
   * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+</article>
+</section>
+
+<section class="card-grid">
+<article class="card card--pills" markdown="1">
+#### Specialties
+  * Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications
+  * Parallel Computing on HPC and GPGPU
+  * Intelligent Sensing Techniques for Human-Computer Interaction
 </article>
 
 <article class="card card--timeline" markdown="1">
