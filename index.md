@@ -33,20 +33,20 @@ show_title: false
   </div>
 </section>
 
-<section class="card-grid">
-<article class="card card--pills card--wide" markdown="1">
-#### Current Focus
-  * Reliable perception for AI robotics and products
-  * GPU-accelerated training, evaluation, and scaling
-  * Human-computer sensing and natural interaction
-</article>
-
-<article class="card card--timeline card--wide" markdown="1">
+<section class="card card--timeline" markdown="1">
 #### Career
   * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
   * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
   * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
-</article>
+</section>
+
+<section class="card card--timeline" markdown="1">
+#### Education
+  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+    * Master's degree in Graduate School of Culture Technology
+    * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
+  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
+    * B.S degree, Major in Electrical Engineering and Computer Science
 </section>
 
 <section class="card-grid">
@@ -57,14 +57,12 @@ show_title: false
   * Intelligent Sensing Techniques for Human-Computer Interaction
 </article>
 
-<article class="card card--timeline" markdown="1">
-#### Education
-  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-    * Master's degree in Graduate School of Culture Technology
-    * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
-  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
-    * B.S degree, Major in Electrical Engineering and Computer Science
-  </article>
+<article class="card card--pills" markdown="1">
+#### Current Focus
+  * Reliable perception for AI robotics and products
+  * GPU-accelerated training, evaluation, and scaling
+  * Human-computer sensing and natural interaction
+</article>
 </section>
 
 <section class="card card--wide card--papers" markdown="1">
