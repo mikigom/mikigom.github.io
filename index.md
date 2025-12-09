@@ -62,6 +62,7 @@ show_title: false
 <article class="card card--pills" markdown="1">
 #### Current Focus
   * Reliable Perception for AI Robotics
+  * Low-level Vision for Machine Vision
   * AI Agent for User-friendly Automation
   * Parallel/Efficient Computation for Robotics
 </article>
