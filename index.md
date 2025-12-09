@@ -8,23 +8,22 @@ full_width: true
 
 <section class="profile-hero">
   <div class="profile-hero__text">
-    <p class="eyebrow">AI Robot Team · PIT IN Corp.</p>
+    <p class="eyebrow">Principal Researcher · AI Robot Team @ PIT IN Corp.</p>
     <h1>Junghoon Seo</h1>
-    <p class="lede">Principal researcher directing computer vision and machine learning for robotics and automation. I also explore computer graphics, GPU/parallel computing, and intelligent sensing.</p>
+    <p class="lede">I direct computer vision and machine learning research for robotics and automation, and I enjoy building bridges to computer graphics, parallel computing, and intelligent sensing. Feel free to reach out for collaboration.</p>
     <div class="profile-hero__actions">
       <a class="hero-button" href="mailto:s3213403@gmail.com">Email</a>
-      <a class="hero-button  hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
+      <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
     </div>
     <div class="chip-row">
-      <span class="chip">Computer Vision</span>
-      <span class="chip">Machine Learning</span>
-      <span class="chip">Robotics</span>
-      <span class="chip">GPU Computing</span>
+      <span class="chip">Machine Learning & Computer Vision</span>
+      <span class="chip">Intelligent Sensing & Machine Vision</span>
+      <span class="chip">GPU & Parallel Computing</span>
     </div>
   </div>
   <div class="profile-hero__media">
     <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
-    <div class="profile-hero__tag">Based in South Korea · Open to collaborations</div>
+    <div class="profile-hero__tag">Based in Daejeon & Seoul · Open to collaboration</div>
   </div>
 </section>
 
@@ -160,7 +159,7 @@ full_width: true
   <article class="card" markdown="1">
   #### Review-serving
   * Journals: IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL,...
-  * Conferences: ICLR `26, CVPR `26, AISTATS `26, NeurIPS `25, ICML `25,.. 
+  * Conferences: ICLR `26, CVPR `26, AISTATS `26, NeurIPS `25, ICML `25,..
   </article>
 </section>
 
