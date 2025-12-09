@@ -69,73 +69,73 @@ show_title: false
 </section>
 
 <section class="card card--wide card--papers" markdown="1">
-#### Publications <span style="font-size:0.8em;">[(Google Scholar)](https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en)</span>
+#### Publications <span style="font-size:0.8em;"><a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></span>
 * **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Thumb Force Estimation with Egocentric Vision**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hanseok Jeong, <U>Junghoon Seo</U>, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM UIST Demo. 2025. [Link](https://dl.acm.org/doi/10.1145/3746058.3760441)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM UIST Demo. 2025. <a href="https://dl.acm.org/doi/10.1145/3746058.3760441" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. [Link](https://ieeexplore.ieee.org/document/11011314)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TGRS. 2025. <a href="https://ieeexplore.ieee.org/document/11011314" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. [Link](https://arxiv.org/abs/2305.07598) 
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2025. <a href="https://arxiv.org/abs/2305.07598" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> 
 * **Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. [Link](https://neurips.cc/virtual/2024/poster/95565)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS. 2024. <a href="https://neurips.cc/virtual/2024/poster/95565" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **A Billion-scale Foundation Model for Remote Sensing Images**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. [Link](https://arxiv.org/abs/2304.05215)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE J-STARS. 2024. <a href="https://arxiv.org/abs/2304.05215" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. [Link](https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE WACV. 2023. <a href="https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and Junghyo Jo
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://openreview.net/forum?id=gh69Bu7k48)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. <a href="https://openreview.net/forum?id=gh69Bu7k48" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Prototype-oriented Unsupervised Change Detection for Disaster Management**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. [Link](https://arxiv.org/abs/2310.09759) 
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. <a href="https://arxiv.org/abs/2310.09759" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> 
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. [Link](https://arxiv.org/abs/2202.10523) [Video](https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. <a href="https://arxiv.org/abs/2202.10523" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> <a href="https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness" aria-label="Video" title="Video">{% include icon.html id="youtube" width="14" height="14" %}</a>
 * **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810961/)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9810961/" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Chaehyeon Lee, <U>Junghoon Seo</U>, and Heechul Jung
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> CVPR Workshop. 2021. [Link](https://arxiv.org/abs/2105.14693)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> CVPR Workshop. 2021. <a href="https://arxiv.org/abs/2105.14693" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **On the Power of Deep but Naive Partial Label Learning**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U> and Joon Suk Huh
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE ICASSP. 2021. [Link](https://arxiv.org/abs/2010.11600)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE ICASSP. 2021. <a href="https://arxiv.org/abs/2010.11600" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Yooseung Wang, <U>Junghoon Seo</U>, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. [Link](https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE GRSL. 2021. <a href="https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Seungwon Lee, Beomsu Kim, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2019. [Link](https://arxiv.org/abs/1910.01911)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2019. <a href="https://arxiv.org/abs/1910.01911" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Deep Closed-Form Subspace Clustering**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Jamyoung Koo, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. [Link](https://arxiv.org/abs/1908.09419)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. <a href="https://arxiv.org/abs/1908.09419" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. [Link](https://arxiv.org/abs/1902.04893)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICCV Workshop. 2019. <a href="https://arxiv.org/abs/1902.04893" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Bridging Adversarial Robustness and Gradient Interpretability**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICLR Workshop. 2019. [Link](https://arxiv.org/abs/1903.11626)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICLR Workshop. 2019. <a href="https://arxiv.org/abs/1903.11626" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM SIGSPATIAL. 2018. [Link](https://dl.acm.org/citation.cfm?id=3274915)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM SIGSPATIAL. 2018. <a href="https://dl.acm.org/citation.cfm?id=3274915" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICML Workshop. 2018. [Link](https://arxiv.org/abs/1806.03000)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ICML Workshop. 2018. <a href="https://arxiv.org/abs/1806.03000" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> <U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017. [Link](https://arxiv.org/abs/1806.03002)
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017. <a href="https://arxiv.org/abs/1806.03002" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Multi-task Learning for Fine-grained Visual Classification of Aircraft**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACML Workshop. 2017.
