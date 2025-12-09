@@ -69,7 +69,7 @@ show_title: false
 </section>
 
 <section class="card card--wide card--papers" markdown="1">
-#### Publications <span style="font-size:0.8em;"><a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></span>
+<h4>Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h4>
 * **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2025. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
@@ -99,7 +99,7 @@ show_title: false
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> NeurIPS Workshop. 2023. <a href="https://arxiv.org/abs/2310.09759" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> 
 * **Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Beomsu Kim and <U>Junghoon Seo</U>
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. <a href="https://arxiv.org/abs/2202.10523" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> <a href="https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness" aria-label="Video" title="Video">{% include icon.html id="youtube" width="14" height="14" %}</a>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> AISTATS. 2022. <a href="https://arxiv.org/abs/2202.10523" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a> <a href="https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness" aria-label="Video link" title="Video link">{% include icon.html id="link" width="14" height="14" %}</a>
 * **Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE Access. 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9810961/" aria-label="Paper link" title="Paper link">{% include icon.html id="link" width="14" height="14" %}</a>
