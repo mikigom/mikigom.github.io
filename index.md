@@ -61,9 +61,9 @@ show_title: false
 
 <article class="card card--pills" markdown="1">
 #### Current Focus
-  * Reliable perception for AI robotics and products
-  * GPU-accelerated training, evaluation, and scaling
-  * Human-computer sensing and natural interaction
+  * Reliable Perception for AI Robotics
+  * AI Agent for User-friendly Automation
+  * Parallel/Efficient Computation for Robotics
 </article>
 </section>
 
