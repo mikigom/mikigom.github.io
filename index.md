@@ -31,22 +31,22 @@ full_width: true
 </section>
 
 <section class="card-grid">
-  <article class="card card--pills" markdown="1">
-  #### Specialties
+<article class="card card--pills" markdown="1">
+#### Specialties
   * Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications
   * Parallel Computing on HPC and GPGPU
   * Intelligent Sensing Techniques for Human-Computer Interaction
-  </article>
+</article>
 
-  <article class="card card--timeline" markdown="1">
-  #### Career
+<article class="card card--timeline" markdown="1">
+#### Career
   * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
   * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
   * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
-  </article>
+</article>
 
-  <article class="card card--timeline" markdown="1">
-  #### Education
+<article class="card card--timeline" markdown="1">
+#### Education
   * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
     * Master's degree in Graduate School of Culture Technology
     * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
@@ -130,16 +130,16 @@ full_width: true
 </section>
 
 <section class="card-grid">
-  <article class="card card--pills" markdown="1">
-  #### Working Titles Under Review
+<article class="card card--pills" markdown="1">
+#### Working Titles Under Review
   - Pressure Estimation for Hand-based Interaction
   - Off-policy Evaluation from Multiple Logging Policies
   - Monocular RGB Category-level Multi-object Pose Estimation
   - Efficient and Robust Camera Calibration
   </article>
 
-  <article class="card" markdown="1">
-  #### Awards & Honors
+<article class="card" markdown="1">
+#### Awards & Honors
   * *2024*, Lab demo project selected as **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**
   * *2021*, Graduated with **Best Undergraduate Thesis Award** from GIST
   * *2020*, **5th place in [xView2 Challenge](https://xview2.org/)**
@@ -151,16 +151,16 @@ full_width: true
 </section>
 
 <section class="card-grid">
-  <article class="card" markdown="1">
-  #### Invited Talks
+<article class="card" markdown="1">
+#### Invited Talks
   * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
   * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
   * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Slides](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
   * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Slides](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
   </article>
 
-  <article class="card" markdown="1">
-  #### Review Services
+<article class="card" markdown="1">
+#### Review Services
   * **Journals:** IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more
   * **Conferences:** ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25, and others
   </article>
