@@ -174,9 +174,4 @@ full_width: true
 * Method for data clustering, application, 10-2020-0107206
 </section>
 
-<section class="card  note-callout" markdown="1">
-**Note**  
-Due to confidentiality provisions related to the field, I cannot disclose the outline of the project to the public.
-</section>
-
 </div>
