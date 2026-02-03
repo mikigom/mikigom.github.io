@@ -149,7 +149,6 @@ show_title: false
 #### Working Titles Under Review
   - Pressure Estimation for Hand-based Interaction
   - Off-policy Evaluation from Multiple Logging Policies
-  - Monocular RGB Category-level Multi-object Pose Estimation
   - Efficient and Robust Camera Calibration
   </article>
 
