@@ -75,7 +75,7 @@ show_title: false
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE ICRA. 2026. <a href="https://arxiv.org/abs/2508.14965" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a> <a href="https://mikigom.github.io/YOPO-project-page/" aria-label="Project page link" title="Project Page">{% include icon.html id="home" width="14" height="14" %}</a>
 * **ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon
-  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2026. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+  - <img height="10" src="/assets/-Presented%20at-blue.svg"> IEEE TVCG. 2026. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a> <a href="https://ohseo.github.io/projects/2025_01_forcectrl/" aria-label="Project page link" title="Project Page">{% include icon.html id="home" width="14" height="14" %}</a>
 * **Thumb Force Estimation with Egocentric Vision**
   - <img height="10" src="/assets/-Authors-brightgreen.svg"> Hanseok Jeong, <U>Junghoon Seo</U>, Sang Ho Yoon
   - <img height="10" src="/assets/-Presented%20at-blue.svg"> ACM UIST Demo. 2025. <a href="https://dl.acm.org/doi/10.1145/3746058.3760441" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
