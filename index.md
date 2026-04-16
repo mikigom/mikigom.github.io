@@ -56,7 +56,7 @@ show_title: false
     <div class="row">
       <div class="row__when">Sep 2020 — Sep 2024</div>
       <div class="row__what">
-        <strong>Technical Leader of Research Center & Co-founder</strong>
+        <strong>Technical Leader of Research Center &amp; Co-founder</strong>
         <div class="row__sub">@ <a href="https://www.si-analytics.ai/eng">SI Analytics</a></div>
       </div>
     </div>
@@ -506,7 +506,7 @@ show_title: false
   </section>
   <section class="section">
     <header class="section__head">
-      <h2>Awards & Honors</h2>
+      <h2>Awards &amp; Honors</h2>
       <span class="section__num">§ 07</span>
     </header>
     <ul class="awards-list">
