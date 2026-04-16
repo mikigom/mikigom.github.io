@@ -726,23 +726,18 @@ img {
   }
 
   &--placeholder {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 50%, #f0f9ff 100%);
     border: 1px solid var(--card-border);
-
-    svg {
-      width: 36px;
-      height: 36px;
-      opacity: 0.35;
-    }
   }
 }
 
 .pub-text {
   flex: 1;
   min-width: 0;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
 
   strong {
     color: var(--text);
