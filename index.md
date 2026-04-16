@@ -97,7 +97,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-hci.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-hci.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -109,7 +109,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-rs.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -157,7 +157,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-rs.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -169,7 +169,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-ml.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-ml.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -205,7 +205,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-ml.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-ml.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -217,7 +217,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-rs.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -253,7 +253,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-rs.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -313,7 +313,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-cv.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-cv.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
@@ -349,7 +349,7 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
-    <img src="/assets/papers/placeholder-cv.svg" alt="placeholder" loading="lazy" />
+    <img src="/assets/papers/placeholder-cv.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text" markdown="1">
 
