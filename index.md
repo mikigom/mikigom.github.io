@@ -93,22 +93,31 @@ show_title: false
   </div>
 </section>
 
-<section class="card-grid">
-<article class="card card--pills" markdown="1">
-#### Specialties
-  * Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications
-  * Parallel Computing on HPC and GPGPU
-  * Intelligent Sensing Techniques for Human-Computer Interaction
-</article>
-
-<article class="card card--pills" markdown="1">
-#### Current Focus
-  * Reliable Perception for AI Robotics
-  * High-precision Photogrammetry
-  * AI Agent for User-friendly Automation
-  * Parallel/Efficient Computing Methods for Robotics
-</article>
-</section>
+<div class="twocol">
+  <section class="section">
+    <header class="section__head">
+      <h2>Specialties</h2>
+      <span class="section__num">§ 03</span>
+    </header>
+    <ul class="tagged-list">
+      <li>Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications</li>
+      <li>Parallel Computing on HPC and GPGPU</li>
+      <li>Intelligent Sensing Techniques for Human-Computer Interaction</li>
+    </ul>
+  </section>
+  <section class="section">
+    <header class="section__head">
+      <h2>Current Focus</h2>
+      <span class="section__num">§ 04</span>
+    </header>
+    <ul class="tagged-list">
+      <li>Reliable Perception for AI Robotics</li>
+      <li>High-precision Photogrammetry</li>
+      <li>AI Agent for User-friendly Automation</li>
+      <li>Parallel/Efficient Computing Methods for Robotics</li>
+    </ul>
+  </section>
+</div>
 
 <section class="card card--wide card--papers">
 <h4>Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h4>
