@@ -27,7 +27,7 @@ styles: true
 details {
   margin-top: 1rem;
   padding: 1rem 1.25rem;
-  border: 1px dashed var(--card-border);
+  border: 1px dashed var(--rule);
   border-radius: 12px;
   background: #f7f9fc;
   transition: border-color 0.25s ease, background-color 0.25s ease;
@@ -36,7 +36,7 @@ details {
 details summary {
   cursor: pointer;
   font-weight: 700;
-  color: var(--text);
+  color: var(--ink);
   list-style: none;
   display: inline-flex;
   align-items: center;
@@ -151,7 +151,7 @@ table {
   
   td {
     padding: 0.75rem 1rem;
-    border-bottom: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--rule);
   }
   
   tr:hover {
