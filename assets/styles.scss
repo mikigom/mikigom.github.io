@@ -590,39 +590,31 @@ table {
 /* Improved Body Typography */
 body {
   background: var(--bg);
-  color: var(--text);
-  font-family: "Inter", "Pretendard", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--ink);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
   line-height: 1.7;
-  font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1, "ss01" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Better Heading Spacing */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 600;
-  line-height: 1.3;
+/* Editorial heading system */
+h1, h2, h3, h4, h5, h6, .serif {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  color: var(--ink);
 }
 
-h1 {
-  font-size: 2.5rem;
-  font-weight: 700;
-}
-
-h2 {
-  font-size: 2rem;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-h4 {
-  font-size: 1.25rem;
-}
+h1 { font-size: 72px; line-height: 1.0; letter-spacing: -0.025em; }
+h2 { font-size: 28px; line-height: 1.1; }
+h3 { font-size: 19px; line-height: 1.3; letter-spacing: -0.005em; }
+h4 { font-size: 16px; }
 
 /* Better Paragraph Spacing */
 p {
