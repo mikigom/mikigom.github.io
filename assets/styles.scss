@@ -861,3 +861,68 @@ hr {
   border: 1px solid var(--accent-border);
   vertical-align: middle;
 }
+
+.page-footer {
+  margin-top: 96px;
+  padding-top: 24px;
+  border-top: 1px solid var(--ink);
+  font-size: 12.5px;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+@media (max-width: 968px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    text-align: left;
+  }
+  .hero__media {
+    justify-self: start;
+    text-align: left;
+  }
+  .portrait-circle {
+    width: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .page {
+    padding: 32px 20px 64px;
+  }
+  .hero h1 {
+    font-size: 48px;
+  }
+  .twocol {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .section {
+    margin-top: 40px;
+    padding-left: 14px;
+  }
+  .topbar {
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 600px) {
+  .row {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+  .patents-list li {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+  .patents-list__no {
+    text-align: left;
+  }
+  .awards-list li {
+    grid-template-columns: 60px 1fr;
+    gap: 12px;
+  }
+}
