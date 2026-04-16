@@ -21,6 +21,9 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- docs
+- .superpowers
+- .claude
 
 # 2. Installed Gems
 plugins:
