@@ -6,13 +6,18 @@ styles: true
 @import "alembic";
 
 :root {
-  --bg: #f6f8fb;
-  --card-bg: #ffffff;
-  --card-border: #e5eaf1;
-  --accent: #0fbf9f;
-  --accent-strong: #0a9c80;
-  --text: #0f172a;
-  --muted: #5f6b7a;
+  --bg: #fafaf8;
+  --surface: #ffffff;
+  --ink: #0f1216;
+  --ink-2: #2a2d33;
+  --muted: #6b7280;
+  --muted-2: #9aa0a6;
+  --rule: #e3e6ea;
+  --rule-soft: #eef0f3;
+  --accent: #0a7a6b;
+  --accent-strong: #086357;
+  --accent-soft: #e8f2ef;
+  --accent-border: #c4ddd6;
 }
 
 .page-title {
