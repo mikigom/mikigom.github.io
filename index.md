@@ -29,7 +29,7 @@ show_title: false
     <div class="hero__actions">
       <a class="btn-primary" href="mailto:s3213403@gmail.com">Email</a>
       <a class="link" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn ↗</a>
-      <a class="link" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar ↗</a>
+      <a class="link" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en">Google Scholar ↗</a>
     </div>
   </div>
   <div class="hero__media">
@@ -122,7 +122,7 @@ show_title: false
 <section class="section">
   <header class="section__head">
     <h2>Publications</h2>
-    <span class="section__num">§ 05 · 24 papers <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></span>
+    <span class="section__num">§ 05 · 24 papers <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></span>
   </header>
   <div class="pubs">
 
@@ -528,7 +528,7 @@ show_title: false
       <span class="section__num">§ 08</span>
     </header>
     <ul class="tagged-list">
-      <li><strong>Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR</strong> @ Online. Nov 2022. <a href="https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s">YouTube</a> (Korean)</li>
+      <li><strong>Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR</strong> @ Online. Nov 2022. <a href="https://www.youtube.com/watch?v=7Eq8WyKWjU0&amp;t=3491s">YouTube</a> (Korean)</li>
       <li><strong>Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches</strong> @ KAERI. Feb 2020.</li>
       <li><strong>Back to the Representation Learning with focusing on Visual Self-supervision</strong> @ ETRI. Jul 2019. <a href="https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing">Slides</a> (Korean)</li>
       <li><strong>Deep Perceptual Super-resolution: Going Beyond Distortion</strong> @ KARI. Jul 2018. <a href="https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing">Slides</a></li>
