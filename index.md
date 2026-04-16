@@ -40,20 +40,57 @@ show_title: false
   </div>
 </section>
 
-<section class="card card--timeline" markdown="1">
-#### Career
-  * *Dec 2024 - Current*, Principal Researcher, AI Robot Team @ [PIT IN Corp.](https://pitin-ev.com/)
-  * *Sep 2020 - Sep 2024*, Technical Leader of Research Center & Co-founder @ [SI Analytics](https://www.si-analytics.ai/eng)
-  * *Jul 2017 - Feb 2020*, ML/CV Research Scientist @ [Satrec Initiative](https://www.satreci.com/)
+<section class="section">
+  <header class="section__head">
+    <h2>Career</h2>
+    <span class="section__num">§ 01</span>
+  </header>
+  <div class="row-list">
+    <div class="row">
+      <div class="row__when">Dec 2024 — Current</div>
+      <div class="row__what">
+        <strong>Principal Researcher</strong>, AI Robot Team
+        <div class="row__sub">@ <a href="https://pitin-ev.com/">PIT IN Corp.</a></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row__when">Sep 2020 — Sep 2024</div>
+      <div class="row__what">
+        <strong>Technical Leader of Research Center & Co-founder</strong>
+        <div class="row__sub">@ <a href="https://www.si-analytics.ai/eng">SI Analytics</a></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row__when">Jul 2017 — Feb 2020</div>
+      <div class="row__what">
+        <strong>ML/CV Research Scientist</strong>
+        <div class="row__sub">@ <a href="https://www.satreci.com/">Satrec Initiative</a></div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section class="card card--timeline" markdown="1">
-#### Education
-  * *Mar 2023 - Feb 2025*, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-    * Master's degree in Graduate School of Culture Technology
-    * [HCI Tech Lab](https://hcitech.org/), supervised by Prof. [Sang Ho Yoon](https://sanghoy.com/)
-  * *Mar 2014 - Feb 2021*, [GIST](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea
-    * B.S degree, Major in Electrical Engineering and Computer Science
+<section class="section">
+  <header class="section__head">
+    <h2>Education</h2>
+    <span class="section__num">§ 02</span>
+  </header>
+  <div class="row-list">
+    <div class="row">
+      <div class="row__when">Mar 2023 — Feb 2025</div>
+      <div class="row__what">
+        <strong>M.S.</strong>, Graduate School of Culture Technology
+        <div class="row__sub"><a href="https://www.kaist.ac.kr/en/">KAIST</a>, Daejeon · <a href="https://hcitech.org/">HCI Tech Lab</a>, supervised by Prof. <a href="https://sanghoy.com/">Sang Ho Yoon</a></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row__when">Mar 2014 — Feb 2021</div>
+      <div class="row__what">
+        <strong>B.S.</strong>, Electrical Engineering and Computer Science
+        <div class="row__sub"><a href="https://www.gist.ac.kr/en/main.html">GIST</a>, Gwangju</div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="card-grid">
