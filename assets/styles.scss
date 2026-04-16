@@ -410,3 +410,48 @@ hr {
     top: 0;
   }
 }
+
+/* ============================================
+   EDITORIAL REDESIGN — NEW COMPONENTS
+   ============================================ */
+
+.page {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 48px 40px 96px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--ink);
+  margin-bottom: 56px;
+
+  &__brand {
+    font-family: 'Fraunces', Georgia, serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  &__status {
+    font-size: 11.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+  }
+
+  &__dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 3px rgba(10, 122, 107, 0.15);
+  }
+}
