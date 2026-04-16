@@ -1,17 +1,12 @@
 ---
 title: Junghoon Seo
-layout: page
+layout: cv
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 aside: false
 show_title: false
 ---
 
 <div class="page">
-
-<div class="topbar">
-  <span class="topbar__brand">J. Seo · mikigom.github.io</span>
-  <span class="topbar__status"><span class="topbar__dot"></span>Principal Researcher — PIT IN Corp.</span>
-</div>
 
 <section class="hero">
   <div class="hero__text">

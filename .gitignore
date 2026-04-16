@@ -6,4 +6,5 @@ alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
 .superpowers/
+.claude/
 
