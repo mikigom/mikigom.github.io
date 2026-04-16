@@ -6,12 +6,18 @@ aside: false
 show_title: false
 ---
 
-<div class="profile-page">
+<div class="page">
 
-<section class="profile-hero">
-  <div class="profile-hero__text">
+<div class="topbar">
+  <span class="topbar__brand">J. Seo · mikigom.github.io</span>
+  <span class="topbar__status"><span class="topbar__dot"></span>Principal Researcher — PIT IN Corp.</span>
+</div>
+
+<section class="hero">
+  <div class="hero__text">
+    <div class="eyebrow">AI Robotics · Computer Vision · HCI Sensing</div>
     <h1>Junghoon Seo</h1>
-    <p class="lede">Leading computer vision and machine learning research for AI robotics @ PIT IN Corp. Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
+    <p class="lede">Leading computer vision and machine learning research for AI robotics <strong>@ PIT IN Corp.</strong> Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
     <div class="chip-row">
       <span class="chip">Computer Vision</span>
       <span class="chip">Machine Learning</span>
@@ -20,18 +26,17 @@ show_title: false
       <span class="chip">GPGPU/HPC</span>
       <span class="chip">HCI Sensing</span>
     </div>
-    <div class="profile-hero__actions">
-      <a class="hero-button" href="mailto:s3213403@gmail.com">Email Me</a>
-      <span class="profile-hero__actions-break" aria-hidden="true"></span>
-      <a class="hero-button hero-button--ghost" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn</a>
-      <a class="hero-button hero-button--ghost" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar</a>
+    <div class="hero__actions">
+      <a class="btn-primary" href="mailto:s3213403@gmail.com">Email</a>
+      <a class="link" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn ↗</a>
+      <a class="link" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&hl=en">Google Scholar ↗</a>
     </div>
   </div>
-  <div class="profile-hero__media">
-    <div class="portrait-frame">
+  <div class="hero__media">
+    <div class="portrait-circle">
       <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
     </div>
-    <div class="profile-hero__tag">Currently leading AI research @ PIT IN Corp.</div>
+    <div class="portrait-caption"><strong>Currently</strong> leading AI research</div>
   </div>
 </section>
 
