@@ -492,25 +492,34 @@ show_title: false
   </div>
 </section>
 
-<section class="card-grid">
-<article class="card card--pills" markdown="1">
-#### Working Titles Under Review
-  - Pressure Estimation for Hand-based Interaction
-  - Off-policy Evaluation from Multiple Logging Policies
-  - Efficient and Robust Camera Calibration
-  </article>
-
-<article class="card" markdown="1">
-#### Awards & Honors
-  * *2024*, Lab demo project selected as **Popular Choice Winner in [CHI 2024](https://chi2024.acm.org/)**
-  * *2021*, **Best Undergraduate Thesis Award** from GIST
-  * *2020*, **5th place in [xView2 Challenge](https://xview2.org/)**
-  * *2018*, **3rd-4th place in CVPR [NTIRE Super-resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire18/)**
-  * *2018*, **2nd place in [DOTA Challenge](https://captain-whu.github.io/DOTA/)**
-  * *2016*, **Grand Prize at [KISTI National Supercomputing Competition](https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=)**
-  * *2016*, **Qualcomm-GIST Innovation Award**
-  </article>
-</section>
+<div class="twocol">
+  <section class="section">
+    <header class="section__head">
+      <h2>Working Titles Under Review</h2>
+      <span class="section__num">§ 06</span>
+    </header>
+    <ul class="tagged-list">
+      <li>Pressure Estimation for Hand-based Interaction</li>
+      <li>Off-policy Evaluation from Multiple Logging Policies</li>
+      <li>Efficient and Robust Camera Calibration</li>
+    </ul>
+  </section>
+  <section class="section">
+    <header class="section__head">
+      <h2>Awards & Honors</h2>
+      <span class="section__num">§ 07</span>
+    </header>
+    <ul class="awards-list">
+      <li><div class="awards-list__year">2024</div><div class="awards-list__what">Lab demo project selected as <strong>Popular Choice Winner</strong> in <a href="https://chi2024.acm.org/">CHI 2024</a></div></li>
+      <li><div class="awards-list__year">2021</div><div class="awards-list__what"><strong>Best Undergraduate Thesis Award</strong> from GIST</div></li>
+      <li><div class="awards-list__year">2020</div><div class="awards-list__what"><strong>5th place</strong> in <a href="https://xview2.org/">xView2 Challenge</a></div></li>
+      <li><div class="awards-list__year">2018</div><div class="awards-list__what"><strong>3rd-4th place</strong> in CVPR <a href="https://data.vision.ee.ethz.ch/cvl/ntire18/">NTIRE Super-resolution Challenge</a></div></li>
+      <li><div class="awards-list__year">2018</div><div class="awards-list__what"><strong>2nd place</strong> in <a href="https://captain-whu.github.io/DOTA/">DOTA Challenge</a></div></li>
+      <li><div class="awards-list__year">2016</div><div class="awards-list__what"><strong>Grand Prize</strong> at <a href="https://webedu.ksc.re.kr/gallery.es?mid=a30501000000&bid=0008&tag=&b_list=12&act=view&list_no=57&nPage=1&vlist_no_npage=0&keyField=&keyWord=&orderby=">KISTI National Supercomputing Competition</a></div></li>
+      <li><div class="awards-list__year">2016</div><div class="awards-list__what"><strong>Qualcomm-GIST Innovation Award</strong></div></li>
+    </ul>
+  </section>
+</div>
 
 <section class="card-grid">
 <article class="card" markdown="1">
