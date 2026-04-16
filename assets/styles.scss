@@ -673,3 +673,47 @@ hr {
     margin-top: 4px;
   }
 }
+
+.tagged-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 10px 0 10px 20px;
+    border-bottom: 1px dotted var(--rule);
+    position: relative;
+    font-size: 15px;
+    color: var(--ink-2);
+    line-height: 1.55;
+    margin: 0;
+
+    &::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      top: 10px;
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(10, 122, 107, 0.3);
+
+      &:hover {
+        border-bottom-color: var(--accent);
+      }
+    }
+  }
+}
