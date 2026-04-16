@@ -812,3 +812,52 @@ hr {
     }
   }
 }
+
+.patents-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+
+  li {
+    padding: 8px 0;
+    border-bottom: 1px dotted var(--rule);
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 14px;
+    color: var(--ink-2);
+    line-height: 1.55;
+    margin: 0;
+    align-items: baseline;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &::before {
+      content: none;
+    }
+  }
+
+  &__no {
+    color: var(--muted);
+    font-size: 13px;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.status-pill {
+  display: inline-block;
+  font-size: 10.5px;
+  padding: 2px 7px;
+  border-radius: 3px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  margin-left: 8px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  border: 1px solid var(--accent-border);
+  vertical-align: middle;
+}
