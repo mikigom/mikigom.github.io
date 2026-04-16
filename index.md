@@ -563,4 +563,9 @@ show_title: false
   </ul>
 </section>
 
+<footer class="page-footer">
+  <span>Junghoon Seo — Curriculum Vitae · Updated 2026</span>
+  <span>mikigom.github.io</span>
+</footer>
+
 </div>
