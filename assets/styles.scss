@@ -18,6 +18,7 @@ styles: true
   --accent-strong: #086357;
   --accent-soft: #e8f2ef;
   --accent-border: #c4ddd6;
+  --accent-link-underline: rgba(10, 122, 107, 0.3);
 }
 
 /* ============================================
@@ -56,7 +57,7 @@ details summary::-webkit-details-marker {
 
 details[open] {
   background: #ffffff;
-  border-color: rgba(15, 191, 159, 0.3);
+  border-color: var(--accent-border);
   
   summary:after {
     transform: rotate(180deg);
@@ -98,10 +99,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Improved Section Spacing */
-section {
-  margin: 2.5rem 0;
-}
 
 /* Better Code Block Styling */
 pre {
@@ -705,7 +702,7 @@ hr {
     a {
       color: var(--accent);
       text-decoration: none;
-      border-bottom: 1px solid rgba(10, 122, 107, 0.3);
+      border-bottom: 1px solid var(--accent-link-underline);
 
       &:hover {
         border-bottom-color: var(--accent);
@@ -755,7 +752,7 @@ hr {
     a {
       color: var(--accent);
       text-decoration: none;
-      border-bottom: 1px solid rgba(10, 122, 107, 0.3);
+      border-bottom: 1px solid var(--accent-link-underline);
 
       &:hover {
         border-bottom-color: var(--accent);
@@ -808,7 +805,7 @@ hr {
     a {
       color: var(--accent);
       text-decoration: none;
-      border-bottom: 1px solid rgba(10, 122, 107, 0.3);
+      border-bottom: 1px solid var(--accent-link-underline);
     }
   }
 }
