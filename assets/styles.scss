@@ -620,3 +620,56 @@ hr {
     margin-top: 0;
   }
 }
+
+.row-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 24px;
+  padding: 14px 0;
+  border-bottom: 1px dotted var(--rule);
+  align-items: baseline;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &__when {
+    font-size: 13px;
+    color: var(--muted);
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  &__what {
+    font-size: 15px;
+    color: var(--ink-2);
+    line-height: 1.55;
+
+    strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(10, 122, 107, 0.3);
+
+      &:hover {
+        border-bottom-color: var(--accent);
+      }
+    }
+  }
+
+  &__sub {
+    color: var(--muted);
+    font-size: 13.5px;
+    margin-top: 4px;
+  }
+}
