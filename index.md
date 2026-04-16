@@ -43,7 +43,6 @@ show_title: false
 <section class="section">
   <header class="section__head">
     <h2>Career</h2>
-    <span class="section__num">§ 01</span>
   </header>
   <div class="row-list">
     <div class="row">
@@ -73,7 +72,6 @@ show_title: false
 <section class="section">
   <header class="section__head">
     <h2>Education</h2>
-    <span class="section__num">§ 02</span>
   </header>
   <div class="row-list">
     <div class="row">
@@ -97,7 +95,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Specialties</h2>
-      <span class="section__num">§ 03</span>
     </header>
     <ul class="tagged-list">
       <li>Machine Learning, Computer Vision, Computer Graphics, and Remote Sensing Applications</li>
@@ -108,7 +105,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Current Focus</h2>
-      <span class="section__num">§ 04</span>
     </header>
     <ul class="tagged-list">
       <li>Reliable Perception for AI Robotics</li>
@@ -121,8 +117,7 @@ show_title: false
 
 <section class="section">
   <header class="section__head">
-    <h2>Publications</h2>
-    <span class="section__num">§ 05 · 24 papers <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></span>
+    <h2>Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h2>
   </header>
   <div class="pubs">
 
@@ -496,7 +491,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Working Titles Under Review</h2>
-      <span class="section__num">§ 06</span>
     </header>
     <ul class="tagged-list">
       <li>Pressure Estimation for Hand-based Interaction</li>
@@ -507,7 +501,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Awards &amp; Honors</h2>
-      <span class="section__num">§ 07</span>
     </header>
     <ul class="awards-list">
       <li><div class="awards-list__year">2024</div><div class="awards-list__what">Lab demo project selected as <strong>Popular Choice Winner</strong> in <a href="https://chi2024.acm.org/">CHI 2024</a></div></li>
@@ -525,7 +518,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Invited Talks</h2>
-      <span class="section__num">§ 08</span>
     </header>
     <ul class="tagged-list">
       <li><strong>Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR</strong> @ Online. Nov 2022. <a href="https://www.youtube.com/watch?v=7Eq8WyKWjU0&amp;t=3491s">YouTube</a> (Korean)</li>
@@ -537,7 +529,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Review Services</h2>
-      <span class="section__num">§ 09</span>
     </header>
     <ul class="tagged-list">
       <li><strong>Journals:</strong> IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more</li>
@@ -549,7 +540,6 @@ show_title: false
 <section class="section">
   <header class="section__head">
     <h2>Patents</h2>
-    <span class="section__num">§ 10 · 8 filings</span>
   </header>
   <ul class="patents-list">
     <li><div>Method for detecting object <span class="status-pill">Granted</span></div><div class="patents-list__no">10-2364882</div></li>
