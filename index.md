@@ -546,16 +546,21 @@ show_title: false
   </section>
 </div>
 
-<section class="card card--wide" markdown="1">
-#### Patents
-* Method for detecting object, **granted**, 10-2364882
-* Method for detecting on-the-fly disaster damage based on image, **granted**, 10-2255998
-* Method for predicting frame using deep learning, application, 10-2023-0115699
-* Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced, application, 10-2023-0075347
-* Method of training object prediction models using ambiguous labels, application, 10-2022-0000169
-* Method for detecting object, application, 10-2021-0168545
-* Method to detect object, application, 10-2021-0135451
-* Method for data clustering, application, 10-2020-0107206
+<section class="section">
+  <header class="section__head">
+    <h2>Patents</h2>
+    <span class="section__num">§ 10 · 8 filings</span>
+  </header>
+  <ul class="patents-list">
+    <li><div>Method for detecting object <span class="status-pill">Granted</span></div><div class="patents-list__no">10-2364882</div></li>
+    <li><div>Method for detecting on-the-fly disaster damage based on image <span class="status-pill">Granted</span></div><div class="patents-list__no">10-2255998</div></li>
+    <li><div>Method for predicting frame using deep learning</div><div class="patents-list__no">10-2023-0115699</div></li>
+    <li><div>Method, system, and computing device for generating an alternative image of a satellite or aerial image in which an image of an area of interest is replaced</div><div class="patents-list__no">10-2023-0075347</div></li>
+    <li><div>Method of training object prediction models using ambiguous labels</div><div class="patents-list__no">10-2022-0000169</div></li>
+    <li><div>Method for detecting object</div><div class="patents-list__no">10-2021-0168545</div></li>
+    <li><div>Method to detect object</div><div class="patents-list__no">10-2021-0135451</div></li>
+    <li><div>Method for data clustering</div><div class="patents-list__no">10-2020-0107206</div></li>
+  </ul>
 </section>
 
 </div>
