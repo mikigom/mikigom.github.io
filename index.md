@@ -521,21 +521,30 @@ show_title: false
   </section>
 </div>
 
-<section class="card-grid">
-<article class="card" markdown="1">
-#### Invited Talks
-  * **Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR** @ Online. Nov 2022. [YouTube](https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s) (Korean)
-  * **Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches** @ KAERI. Feb 2020.
-  * **Back to the Representation Learning with focusing on Visual Self-supervision** @ ETRI. Jul 2019. [Slides](https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing) (Korean)
-  * **Deep Perceptual Super-resolution: Going Beyond Distortion** @ KARI. Jul 2018. [Slides](https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing)
-  </article>
-
-<article class="card" markdown="1">
-#### Review Services
-  * **Journals:** IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more
-  * **Conferences:** ICLR \`26, CVPR \`26, AISTATS \`26, NeurIPS \`25, ICML \`25, and others
-  </article>
-</section>
+<div class="twocol">
+  <section class="section">
+    <header class="section__head">
+      <h2>Invited Talks</h2>
+      <span class="section__num">§ 08</span>
+    </header>
+    <ul class="tagged-list">
+      <li><strong>Query as Representation: A Paradigm Shift in Computer Vision Caused by DETR</strong> @ Online. Nov 2022. <a href="https://www.youtube.com/watch?v=7Eq8WyKWjU0&t=3491s">YouTube</a> (Korean)</li>
+      <li><strong>Recent XAI Trends in Deep Learning Era: (Under-)specification and Approaches</strong> @ KAERI. Feb 2020.</li>
+      <li><strong>Back to the Representation Learning with focusing on Visual Self-supervision</strong> @ ETRI. Jul 2019. <a href="https://drive.google.com/file/d/12vu4arZQQvwT8f7GJLI99_YIJCkl3BL-/view?usp=sharing">Slides</a> (Korean)</li>
+      <li><strong>Deep Perceptual Super-resolution: Going Beyond Distortion</strong> @ KARI. Jul 2018. <a href="https://drive.google.com/file/d/1JN0afRsnPfBgKWicPPg4hGKkBiLr_42M/view?usp=sharing">Slides</a></li>
+    </ul>
+  </section>
+  <section class="section">
+    <header class="section__head">
+      <h2>Review Services</h2>
+      <span class="section__num">§ 09</span>
+    </header>
+    <ul class="tagged-list">
+      <li><strong>Journals:</strong> IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more</li>
+      <li><strong>Conferences:</strong> ICLR '26, CVPR '26, AISTATS '26, NeurIPS '25, ICML '25, and others</li>
+    </ul>
+  </section>
+</div>
 
 <section class="card card--wide" markdown="1">
 #### Patents
