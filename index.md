@@ -118,6 +118,21 @@ show_title: false
 
 <div class="pub-entry">
   <div class="pub-thumb">
+    <img src="/assets/papers/distributional-stability.png" alt="Distributional Stability of Tangent-Linearized Gaussian Inference" loading="lazy" />
+  </div>
+  <div class="pub-text">
+    <strong>Distributional Stability of Tangent-Linearized Gaussian Inference on Smooth Manifolds</strong>
+    <p class="pub-authors"><U>Junghoon Seo</U>, Hakjin Lee, Jaehoon Sim</p>
+    <div class="venue-row">
+      <span class="venue-tag">IEEE RA-L</span>
+      <span class="year">2026</span>
+      <a href="https://arxiv.org/abs/2602.19179" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumb">
     <img src="/assets/papers/yopo.jpg" alt="You Only Pose Once" loading="lazy" />
   </div>
   <div class="pub-text">
