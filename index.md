@@ -164,6 +164,21 @@ show_title: false
 </div>
 
 <div class="pub-entry">
+  <div class="pub-thumb">
+    <img src="/assets/papers/roar-pitfalls.png" alt="ROAR attribution post-processing examples" loading="lazy" />
+  </div>
+  <div class="pub-text">
+    <strong>On Pitfalls of RemOve-And-Retrain: Data Processing Inequality Perspective</strong>
+    <p class="pub-authors">Junhwa Song, Keumgang Cha, <U>Junghoon Seo</U></p>
+    <div class="venue-row">
+      <span class="venue-tag">ICML Workshop</span>
+      <span class="year">2026</span>
+      <a href="https://arxiv.org/abs/2304.13836" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/egopress.png" alt="" loading="lazy" />
   </div>
