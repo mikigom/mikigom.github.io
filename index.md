@@ -43,7 +43,7 @@ show_title: false
     <div class="row">
       <div class="row__when">Dec 2024 — Current</div>
       <div class="row__what">
-        <strong>Director</strong>, AI Robot Team Leader
+        <strong>Executive Director</strong>, AI R&amp;D Team Leader
         <div class="row__sub">@ <a href="https://pitin-ev.com/">PIT IN Corp.</a></div>
       </div>
     </div>
