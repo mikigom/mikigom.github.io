@@ -43,7 +43,7 @@ show_title: false
     <div class="row">
       <div class="row__when">Dec 2024 — Current</div>
       <div class="row__what">
-        <strong>Principal Researcher</strong>, AI Robot Team
+        <strong>Director</strong>, AI Robot Team Leader
         <div class="row__sub">@ <a href="https://pitin-ev.com/">PIT IN Corp.</a></div>
       </div>
     </div>
@@ -557,7 +557,7 @@ show_title: false
     </header>
     <ul class="tagged-list">
       <li><strong>Journals:</strong> IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more</li>
-      <li><strong>Conferences:</strong> ICLR '26, CVPR '26, AISTATS '26, NeurIPS '25, ICML '25, and others</li>
+      <li><strong>Conferences:</strong> AAAI '27, ECCV '26, ICLR '26, CVPR '26, NeurIPS '25, ICML '25, and others</li>
     </ul>
   </section>
 </div>
