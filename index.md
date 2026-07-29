@@ -224,6 +224,21 @@ show_title: false
 </div>
 
 <div class="pub-entry">
+  <div class="pub-thumb pub-thumb--placeholder">
+    <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
+  </div>
+  <div class="pub-text">
+    <strong>Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations</strong>
+    <p class="pub-authors">Keumgang Cha, Donggeun Yu, <U>Junghoon Seo</U>, Hyunguk Choi, and Taegyun Jeon</p>
+    <div class="venue-row">
+      <span class="venue-tag">ISPRS Archives</span>
+      <span class="year">2025</span>
+      <a href="https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/249/2025/isprs-archives-XLVIII-G-2025-249-2025.pdf" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
   <div class="pub-thumb">
     <img src="/assets/papers/pimforce.jpg" alt="Posture-Informed Muscular Force" loading="lazy" />
   </div>
