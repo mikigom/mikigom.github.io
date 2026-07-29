@@ -31,7 +31,6 @@ show_title: false
     <div class="portrait-circle">
       <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
     </div>
-    <div class="portrait-caption"><strong>Currently</strong> leading AI research</div>
   </div>
 </section>
 
@@ -111,10 +110,13 @@ show_title: false
 </div>
 
 <section class="section">
-  <header class="section__head">
-    <h2>Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h2>
+  <header class="section__head section__head--pubs">
+    <h2>Selected Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h2>
+    <button id="publications-open" class="pubs-trigger" type="button" aria-haspopup="dialog" hidden>
+      <span>View all publications</span>
+      <span class="pubs-trigger__count" data-pubs-count></span>
+    </button>
   </header>
-  <p class="pubs-kicker">Selected publications</p>
   <div class="pubs" id="publications-list">
 
 <div class="pub-entry pub-entry--selected">
@@ -527,25 +529,75 @@ show_title: false
 
   </div>
 
-  <button id="publications-toggle" class="pubs-disclosure" type="button" aria-expanded="false" aria-controls="publications-list" hidden>
-    <span class="pubs-disclosure__show">View all publications</span>
-    <span class="pubs-disclosure__hide">Show selected publications</span>
-    <span class="pubs-disclosure__icon" aria-hidden="true"></span>
-  </button>
+  <dialog id="publications-modal" class="pubs-modal" aria-labelledby="publications-modal-title">
+    <div class="pubs-modal__head">
+      <h2 class="pubs-modal__title" id="publications-modal-title">All publications</h2>
+      <button id="publications-close" class="pubs-modal__close" type="button" aria-label="Close all publications">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="pubs-modal__body" id="publications-modal-body" tabindex="-1" autofocus></div>
+  </dialog>
 
   <script>
     (() => {
       const list = document.getElementById('publications-list');
-      const toggle = document.getElementById('publications-toggle');
-      if (!list || !toggle) return;
+      const openBtn = document.getElementById('publications-open');
+      if (!list || !openBtn) return;
+
+      const total = list.querySelectorAll('.pub-entry').length;
+      document.querySelectorAll('[data-pubs-count]').forEach((el) => {
+        el.textContent = String(total);
+      });
 
       list.classList.add('pubs--collapsed');
-      toggle.hidden = false;
+      openBtn.hidden = false;
 
-      toggle.addEventListener('click', () => {
-        const nextExpanded = toggle.getAttribute('aria-expanded') !== 'true';
-        toggle.setAttribute('aria-expanded', String(nextExpanded));
-        list.classList.toggle('pubs--collapsed', !nextExpanded);
+      const modal = document.getElementById('publications-modal');
+      const modalBody = document.getElementById('publications-modal-body');
+      const closeBtn = document.getElementById('publications-close');
+
+      // Without <dialog> support, fall back to expanding the list in place.
+      if (!modal || typeof modal.showModal !== 'function') {
+        if (modal) modal.remove();
+        openBtn.setAttribute('aria-expanded', 'false');
+        openBtn.setAttribute('aria-controls', 'publications-list');
+        openBtn.removeAttribute('aria-haspopup');
+        openBtn.addEventListener('click', () => {
+          const expanded = openBtn.getAttribute('aria-expanded') === 'true';
+          openBtn.setAttribute('aria-expanded', String(!expanded));
+          list.classList.toggle('pubs--collapsed', expanded);
+        });
+        return;
+      }
+
+      let filled = false;
+      const fill = () => {
+        if (filled) return;
+        const all = list.cloneNode(true);
+        all.removeAttribute('id');
+        all.classList.remove('pubs--collapsed');
+        modalBody.appendChild(all);
+        filled = true;
+      };
+
+      openBtn.addEventListener('click', () => {
+        fill();
+        modal.showModal();
+        modalBody.scrollTop = 0;
+        document.documentElement.classList.add('is-modal-open');
+      });
+
+      closeBtn.addEventListener('click', () => modal.close());
+
+      // Click on the backdrop targets the dialog itself.
+      modal.addEventListener('click', (event) => {
+        if (event.target === modal) modal.close();
+      });
+
+      modal.addEventListener('close', () => {
+        document.documentElement.classList.remove('is-modal-open');
+        openBtn.focus();
       });
     })();
   </script>

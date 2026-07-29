@@ -203,6 +203,16 @@ textarea:focus-visible {
   a {
     text-decoration: underline;
   }
+
+  /* Print the full publication list, not just the selected ones. */
+  .pubs-trigger,
+  .pubs-modal {
+    display: none !important;
+  }
+
+  .pubs--collapsed .pub-entry {
+    display: grid !important;
+  }
 }
 
 /* Better List Styling */
@@ -240,17 +250,7 @@ img {
 
 /* Publications */
 .pubs {
-  margin-top: 20px;
-}
-
-.pubs-kicker {
-  margin: 20px 0 0;
-  font-family: 'Inter', sans-serif;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--accent);
+  margin-top: 4px;
 }
 
 .pubs--collapsed {
@@ -259,29 +259,48 @@ img {
   }
 }
 
-.pubs-disclosure {
-  display: flex;
-  width: fit-content;
+/* "View all publications" trigger, sits beside the Publications heading */
+.pubs-trigger {
+  display: inline-flex;
+  flex: none;
+  align-self: center;
   align-items: center;
-  gap: 10px;
-  margin-top: 18px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 10px 16px;
+  gap: 8px;
+  padding: 9px 10px 9px 16px;
   appearance: none;
-  border: 1px solid var(--accent-border);
+  border: 1px solid var(--accent);
   border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: var(--accent);
+  color: #ffffff;
   cursor: pointer;
   font-family: 'Inter', sans-serif;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  transition: background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(10, 122, 107, 0.22);
+  transition: background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+
+  &__count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 24px;
+    height: 20px;
+    padding: 0 7px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.22);
+    color: #ffffff;
+    font-size: 11.5px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
 
   &:hover {
-    border-color: var(--accent);
+    border-color: var(--accent-strong);
+    background: var(--accent-strong);
+    box-shadow: 0 4px 14px rgba(10, 122, 107, 0.3);
     transform: translateY(-1px);
   }
 
@@ -290,30 +309,90 @@ img {
     outline-offset: 3px;
   }
 
-  &__hide {
+  &[aria-expanded='true'] .pubs-trigger__count {
     display: none;
   }
+}
 
-  &__icon {
-    width: 7px;
-    height: 7px;
-    border-right: 1.5px solid currentColor;
-    border-bottom: 1.5px solid currentColor;
-    transform: translateY(-2px) rotate(45deg);
-    transition: transform 160ms ease;
+/* All-publications modal */
+.is-modal-open {
+  overflow: hidden;
+}
+
+.pubs-modal {
+  width: min(880px, calc(100vw - 32px));
+  max-width: none;
+  max-height: min(86vh, 880px);
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 28px 70px rgba(15, 18, 22, 0.26);
+  overflow: hidden;
+
+  &::backdrop {
+    background: rgba(15, 18, 22, 0.55);
+    backdrop-filter: blur(2px);
   }
 
-  &[aria-expanded='true'] {
-    .pubs-disclosure__show {
-      display: none;
-    }
+  &[open] {
+    display: flex;
+    flex-direction: column;
+  }
 
-    .pubs-disclosure__hide {
-      display: inline;
-    }
+  &__head {
+    display: flex;
+    flex: none;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 20px 26px 16px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
 
-    .pubs-disclosure__icon {
-      transform: translateY(2px) rotate(225deg);
+  &__title {
+    margin: 0;
+    font-family: 'Fraunces', Georgia, serif;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  &__close {
+    display: inline-flex;
+    flex: none;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    appearance: none;
+    border: 1px solid var(--rule);
+    border-radius: 50%;
+    background: var(--bg);
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 22px;
+    line-height: 1;
+
+    &:hover {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      color: var(--accent);
+    }
+  }
+
+  /* Focused on open so arrow keys scroll the list right away; not tab-reachable. */
+  &__body {
+    flex: 1;
+    min-height: 0;
+    padding: 0 26px 26px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+
+    &:focus {
+      outline: none;
     }
   }
 }
@@ -435,6 +514,23 @@ img {
   }
   .pub-thumb {
     display: none;
+  }
+  .section__head--pubs {
+    flex-wrap: wrap;
+    row-gap: 12px;
+  }
+  .pubs-modal {
+    width: calc(100vw - 20px);
+    max-height: 92vh;
+    border-radius: 12px;
+
+    &__head {
+      padding: 18px 18px 14px;
+    }
+
+    &__body {
+      padding: 0 18px 20px;
+    }
   }
 }
 
@@ -602,17 +698,6 @@ hr {
   }
 }
 
-.portrait-caption {
-  margin-top: 14px;
-  font-size: 12px;
-  color: var(--muted);
-
-  strong {
-    color: var(--accent);
-    font-weight: 600;
-  }
-}
-
 .btn-primary {
   font-size: 14px;
   padding: 11px 22px;
@@ -665,6 +750,10 @@ hr {
     align-items: baseline;
     margin-bottom: 20px;
     gap: 16px;
+
+    &--pubs {
+      align-items: center;
+    }
   }
 
   &__head h2 {
