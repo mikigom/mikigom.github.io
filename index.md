@@ -10,7 +10,6 @@ show_title: false
 
 <section class="hero">
   <div class="hero__text">
-    <div class="eyebrow">AI Robotics · Computer Vision · HCI Sensing</div>
     <h1>Junghoon Seo</h1>
     <p class="lede">Leading computer vision and machine learning research for AI robotics <strong>@ PIT IN Corp.</strong> Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
     <div class="chip-row">
@@ -533,7 +532,9 @@ show_title: false
     <div class="pubs-modal__head">
       <h2 class="pubs-modal__title" id="publications-modal-title">All publications</h2>
       <button id="publications-close" class="pubs-modal__close" type="button" aria-label="Close all publications">
-        <span aria-hidden="true">&times;</span>
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true" focusable="false">
+          <path d="M2.5 2.5 11.5 11.5M11.5 2.5 2.5 11.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+        </svg>
       </button>
     </div>
     <div class="pubs-modal__body" id="publications-modal-body" tabindex="-1" autofocus></div>
