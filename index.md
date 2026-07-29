@@ -114,9 +114,10 @@ show_title: false
   <header class="section__head">
     <h2>Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h2>
   </header>
-  <div class="pubs">
+  <p class="pubs-kicker">Selected publications</p>
+  <div class="pubs" id="publications-list">
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/distributional-stability.png" alt="Distributional Stability of Tangent-Linearized Gaussian Inference" loading="lazy" />
   </div>
@@ -131,7 +132,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/yopo.jpg" alt="You Only Pose Once" loading="lazy" />
   </div>
@@ -147,7 +148,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/forcectrl.jpg" alt="ForceCtrl: Hand-Raycasting" loading="lazy" />
   </div>
@@ -193,7 +194,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/lrt_sr.png" alt="" loading="lazy" />
   </div>
@@ -208,7 +209,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/hdm-detr.jpg" alt="Hausdorff Distance Matching" loading="lazy" />
   </div>
@@ -238,7 +239,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/pimforce.jpg" alt="Posture-Informed Muscular Force" loading="lazy" />
   </div>
@@ -254,7 +255,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/billion-rs.jpg" alt="Billion-scale Foundation Model" loading="lazy" />
   </div>
@@ -269,7 +270,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/self-pair.png" alt="" loading="lazy" />
   </div>
@@ -314,7 +315,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/sihg.jpg" alt="Semi-Implicit Hybrid Gradient" loading="lazy" />
   </div>
@@ -345,7 +346,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/contrastive.png" alt="" loading="lazy" />
   </div>
@@ -375,7 +376,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/naive-pll.jpg" alt="On the Power of Deep but Naive Partial Label" loading="lazy" />
   </div>
@@ -390,7 +391,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/nllink.png" alt="" loading="lazy" />
   </div>
@@ -465,7 +466,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry">
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/rbox-cnn.png" alt="" loading="lazy" />
   </div>
@@ -525,6 +526,29 @@ show_title: false
 </div>
 
   </div>
+
+  <button id="publications-toggle" class="pubs-disclosure" type="button" aria-expanded="false" aria-controls="publications-list" hidden>
+    <span class="pubs-disclosure__show">View all publications</span>
+    <span class="pubs-disclosure__hide">Show selected publications</span>
+    <span class="pubs-disclosure__icon" aria-hidden="true"></span>
+  </button>
+
+  <script>
+    (() => {
+      const list = document.getElementById('publications-list');
+      const toggle = document.getElementById('publications-toggle');
+      if (!list || !toggle) return;
+
+      list.classList.add('pubs--collapsed');
+      toggle.hidden = false;
+
+      toggle.addEventListener('click', () => {
+        const nextExpanded = toggle.getAttribute('aria-expanded') !== 'true';
+        toggle.setAttribute('aria-expanded', String(nextExpanded));
+        list.classList.toggle('pubs--collapsed', !nextExpanded);
+      });
+    })();
+  </script>
 </section>
 
 <div class="twocol">
