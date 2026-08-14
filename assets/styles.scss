@@ -275,11 +275,11 @@ img {
   cursor: pointer;
   font-family: 'Inter', sans-serif;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1;
   letter-spacing: 0.01em;
   white-space: nowrap;
-  box-shadow: 0 2px 8px rgba(10, 122, 107, 0.22);
+  box-shadow: 0 3px 10px rgba(10, 122, 107, 0.28);
   transition: background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 
   &__count {
@@ -299,7 +299,7 @@ img {
 
   /* The theme's `button:focus` paints a dark inset shadow; keep ours instead. */
   &:focus {
-    box-shadow: 0 2px 8px rgba(10, 122, 107, 0.22);
+    box-shadow: 0 3px 10px rgba(10, 122, 107, 0.28);
   }
 
   &:hover {

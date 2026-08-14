@@ -210,7 +210,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb">
     <img src="/assets/papers/hdm-detr.jpg" alt="Hausdorff Distance Matching" loading="lazy" />
   </div>
@@ -271,7 +271,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/self-pair.png" alt="" loading="lazy" />
   </div>
@@ -347,7 +347,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/contrastive.png" alt="" loading="lazy" />
   </div>
@@ -392,7 +392,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/nllink.png" alt="" loading="lazy" />
   </div>
@@ -467,7 +467,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb pub-thumb--placeholder">
     <img src="/assets/papers/rbox-cnn.png" alt="" loading="lazy" />
   </div>
