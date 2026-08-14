@@ -607,12 +607,16 @@ show_title: false
 <div class="twocol">
   <section class="section">
     <header class="section__head">
-      <h2>Working Titles Under Review</h2>
+      <h2>Working Titles / Under Review</h2>
     </header>
     <ul class="tagged-list">
       <li>Pressure Estimation for Hand-based Interaction</li>
       <li>Off-policy Evaluation from Multiple Logging Policies</li>
-      <li>Efficient and Robust Camera Calibration</li>
+      <li>Scalable Multi-robot System</li>
+      <li>Data-efficient RGB-D Pose Estimation</li>
+      <li>System Identification on Jordan Block</li>
+      <li>Lipschitz Bandits under Delay</li>
+      <li>Scalable Scheduling for Battery Swapping Service</li>
     </ul>
   </section>
   <section class="section">
