@@ -320,7 +320,7 @@ img {
 }
 
 /* All-publications modal */
-.is-modal-open {
+.is-modal-open body {
   overflow: hidden;
 }
 
@@ -328,6 +328,7 @@ img {
   width: min(880px, calc(100vw - 32px));
   max-width: none;
   max-height: min(86vh, 880px);
+  max-height: min(86dvh, 880px);
   padding: 0;
   border: 1px solid var(--rule);
   border-radius: 16px;
@@ -537,6 +538,7 @@ img {
   .pubs-modal {
     width: calc(100vw - 20px);
     max-height: 92vh;
+    max-height: 92dvh;
     border-radius: 12px;
 
     &__head {
