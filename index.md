@@ -13,14 +13,12 @@ show_title: false
   <div class="hero__intro">
     <p class="eyebrow">Computer vision &amp; AI robotics</p>
     <h1 id="about-title">Junghoon Seo</h1>
-    <p class="hero__role">Executive Director · AI R&amp;D Team Leader</p>
   </div>
   <div class="hero__media">
     <img src="{{ '/assets/YN2n7fI_.jpg' | relative_url }}" alt="Junghoon Seo" width="200" height="240" fetchpriority="high" />
   </div>
   <div class="hero__body">
     <p class="lede">I lead computer vision and machine learning research for AI robotics at <a href="https://pitin-ev.com/">PIT IN Corp.</a></p>
-    <p class="hero__detail">My work spans satellite imagery and HCI sensing, with a focus on GPU computing, computer graphics, and reliable robotic perception.</p>
     <div class="hero__actions">
       <a class="btn-primary" href="mailto:s3213403@gmail.com">Email</a>
       <a class="link" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn <span aria-hidden="true">↗</span></a>
@@ -107,10 +105,7 @@ show_title: false
 
 <section class="section" id="research" aria-labelledby="research-title">
   <header class="section__head section__head--pubs">
-    <div>
-      <h2 id="research-title">Publications</h2>
-      <p>Selected work in machine learning, robotics, and sensing.</p>
-    </div>
+    <h2 id="research-title">Selected Publications</h2>
     <button id="publications-open" class="pubs-trigger" type="button" aria-haspopup="dialog" aria-controls="publications-modal" hidden>
       View all <span data-pubs-count></span> publications <span aria-hidden="true">↗</span>
     </button>
