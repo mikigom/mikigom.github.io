@@ -1,5 +1,6 @@
 ---
 title: Junghoon Seo
+description: "Junghoon Seo leads computer vision and machine learning research for AI robotics at PIT IN Corp. Research, publications, and experience."
 layout: cv
 thumbnail: "/assets/logos/rilakkuma-icon-png-8.png"
 aside: false
@@ -8,83 +9,79 @@ show_title: false
 
 <div class="page">
 
-<section class="hero">
-  <div class="hero__text">
-    <h1>Junghoon Seo</h1>
-    <p class="lede">Leading computer vision and machine learning research for AI robotics <strong>@ PIT IN Corp.</strong> Experienced in satellite/aerial imagery and HCI sensing, with strong interests in GPU parallel computing and computer graphics.</p>
-    <div class="chip-row">
-      <span class="chip">Computer Vision</span>
-      <span class="chip">Machine Learning</span>
-      <span class="chip">AI Robotics</span>
-      <span class="chip">Remote Sensing</span>
-      <span class="chip">GPGPU/HPC</span>
-      <span class="chip">HCI Sensing</span>
-    </div>
-    <div class="hero__actions">
-      <a class="btn-primary" href="mailto:s3213403@gmail.com">Email</a>
-      <a class="link" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn ↗</a>
-      <a class="link" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en">Google Scholar ↗</a>
-    </div>
+<section class="hero" id="about" aria-labelledby="about-title">
+  <div class="hero__intro">
+    <p class="eyebrow">Computer vision &amp; AI robotics</p>
+    <h1 id="about-title">Junghoon Seo</h1>
+    <p class="hero__role">Executive Director · AI R&amp;D Team Leader</p>
   </div>
   <div class="hero__media">
-    <div class="portrait-circle">
-      <img src="/assets/YN2n7fI_.jpg" alt="Junghoon Seo" />
+    <img src="{{ '/assets/YN2n7fI_.jpg' | relative_url }}" alt="Junghoon Seo" width="200" height="240" fetchpriority="high" />
+  </div>
+  <div class="hero__body">
+    <p class="lede">I lead computer vision and machine learning research for AI robotics at <a href="https://pitin-ev.com/">PIT IN Corp.</a></p>
+    <p class="hero__detail">My work spans satellite imagery and HCI sensing, with a focus on GPU computing, computer graphics, and reliable robotic perception.</p>
+    <div class="hero__actions">
+      <a class="btn-primary" href="mailto:s3213403@gmail.com">Email</a>
+      <a class="link" href="https://www.linkedin.com/in/junghoon-seo/">LinkedIn <span aria-hidden="true">↗</span></a>
+      <a class="link" href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
     </div>
   </div>
 </section>
 
-<section class="section">
+<section class="section section--split" id="experience" aria-labelledby="experience-title">
   <header class="section__head">
-    <h2>Career</h2>
+    <h2 id="experience-title">Experience</h2>
   </header>
   <div class="row-list">
     <div class="row">
-      <div class="row__when">Dec 2024 — Current</div>
+      <div class="row__when">Dec 2024 — Present</div>
       <div class="row__what">
-        <strong>Executive Director</strong>, AI R&amp;D Team Leader
-        <div class="row__sub">@ <a href="https://pitin-ev.com/">PIT IN Corp.</a></div>
+        <strong>Executive Director</strong>
+        <div class="row__sub">AI R&amp;D Team Leader · <a href="https://pitin-ev.com/">PIT IN Corp.</a></div>
       </div>
     </div>
     <div class="row">
       <div class="row__when">Sep 2020 — Sep 2024</div>
       <div class="row__what">
-        <strong>Technical Leader of Research Center &amp; Co-founder</strong>
-        <div class="row__sub">@ <a href="https://www.si-analytics.ai/eng">SI Analytics</a></div>
+        <strong>Technical Leader &amp; Co-founder</strong>
+        <div class="row__sub">Research Center · <a href="https://www.si-analytics.ai/eng">SI Analytics</a></div>
       </div>
     </div>
     <div class="row">
       <div class="row__when">Jul 2017 — Feb 2020</div>
       <div class="row__what">
         <strong>ML/CV Research Scientist</strong>
-        <div class="row__sub">@ <a href="https://www.satreci.com/">Satrec Initiative</a></div>
+        <div class="row__sub"><a href="https://www.satreci.com/">Satrec Initiative</a></div>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section">
+<section class="section section--split" aria-labelledby="education-title">
   <header class="section__head">
-    <h2>Education</h2>
+    <h2 id="education-title">Education</h2>
   </header>
   <div class="row-list">
     <div class="row">
       <div class="row__when">Mar 2023 — Feb 2025</div>
       <div class="row__what">
-        <strong>M.S.</strong>, Graduate School of Culture Technology
-        <div class="row__sub"><a href="https://www.kaist.ac.kr/en/">KAIST</a>, Daejeon · <a href="https://hcitech.org/">HCI Tech Lab</a>, supervised by Prof. <a href="https://sanghoy.com/">Sang Ho Yoon</a></div>
+        <strong>M.S. in Culture Technology</strong>
+        <div class="row__sub"><a href="https://www.kaist.ac.kr/en/">KAIST</a> · Daejeon</div>
+        <div class="row__detail"><a href="https://hcitech.org/">HCI Tech Lab</a> · Advisor: Prof. <a href="https://sanghoy.com/">Sang Ho Yoon</a></div>
       </div>
     </div>
     <div class="row">
       <div class="row__when">Mar 2014 — Feb 2021</div>
       <div class="row__what">
-        <strong>B.S.</strong>, Electrical Engineering and Computer Science
-        <div class="row__sub"><a href="https://www.gist.ac.kr/en/main.html">GIST</a>, Gwangju</div>
+        <strong>B.S. in Electrical Engineering and Computer Science</strong>
+        <div class="row__sub"><a href="https://www.gist.ac.kr/en/main.html">GIST</a> · Gwangju</div>
       </div>
     </div>
   </div>
 </section>
 
-<div class="twocol">
+<div class="twocol focus">
   <section class="section">
     <header class="section__head">
       <h2>Specialties</h2>
@@ -108,12 +105,14 @@ show_title: false
   </section>
 </div>
 
-<section class="section">
+<section class="section" id="research" aria-labelledby="research-title">
   <header class="section__head section__head--pubs">
-    <h2>Selected Publications <a href="https://scholar.google.com/citations?user=9KBQk-YAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar">{% include icon.html id="link" width="14" height="14" %}</a></h2>
-    <button id="publications-open" class="pubs-trigger" type="button" aria-haspopup="dialog" hidden>
-      <span>View all publications</span>
-      <span class="pubs-trigger__count" data-pubs-count></span>
+    <div>
+      <h2 id="research-title">Publications</h2>
+      <p>Selected work in machine learning, robotics, and sensing.</p>
+    </div>
+    <button id="publications-open" class="pubs-trigger" type="button" aria-haspopup="dialog" aria-controls="publications-modal" hidden>
+      View all <span data-pubs-count></span> publications <span aria-hidden="true">↗</span>
     </button>
   </header>
   <div class="pubs" id="publications-list">
@@ -123,8 +122,8 @@ show_title: false
     <img src="/assets/papers/optimal-ips.png" alt="Optimal IPS estimation from multi-logger data" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation</strong>
-    <p class="pub-authors">Joon Suk Huh, <U>Junghoon Seo</U></p>
+    <h3>Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation</h3>
+    <p class="pub-authors">Joon Suk Huh, <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS</span>
       <span class="year">2026</span>
@@ -137,12 +136,12 @@ show_title: false
     <img src="/assets/papers/distributional-stability.png" alt="Distributional Stability of Tangent-Linearized Gaussian Inference" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Distributional Stability of Tangent-Linearized Gaussian Inference on Smooth Manifolds</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Hakjin Lee, Jaehoon Sim</p>
+    <h3>Distributional Stability of Tangent-Linearized Gaussian Inference on Smooth Manifolds</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Hakjin Lee, Jaehoon Sim</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE RA-L</span>
       <span class="year">2026</span>
-      <a href="https://arxiv.org/abs/2602.19179" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2602.19179">Paper</a>
     </div>
   </div>
 </div>
@@ -152,13 +151,13 @@ show_title: false
     <img src="/assets/papers/yopo.jpg" alt="You Only Pose Once" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation</strong>
-    <p class="pub-authors">Hakjin Lee, <U>Junghoon Seo</U>, Jaehoon Sim</p>
+    <h3>You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation</h3>
+    <p class="pub-authors">Hakjin Lee, <span class="author-self">Junghoon Seo</span>, Jaehoon Sim</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE ICRA</span>
       <span class="year">2026</span>
-      <a href="https://arxiv.org/abs/2508.14965" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
-      <a href="https://mikigom.github.io/YOPO-project-page/" aria-label="Project page link" title="Project Page">{% include icon.html id="home" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2508.14965">Paper</a>
+      <a href="https://mikigom.github.io/YOPO-project-page/">Project</a>
     </div>
   </div>
 </div>
@@ -168,13 +167,13 @@ show_title: false
     <img src="/assets/papers/forcectrl.jpg" alt="ForceCtrl: Hand-Raycasting" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application</strong>
-    <p class="pub-authors">Seo Young Oh, <U>Junghoon Seo</U>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon</p>
+    <h3>ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application</h3>
+    <p class="pub-authors">Seo Young Oh, <span class="author-self">Junghoon Seo</span>, Juyoung Lee, Boram Yoon, Woontack Woo, Sang Ho Yoon</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE TVCG</span>
       <span class="year">2026</span>
-      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
-      <a href="https://ohseo.github.io/projects/2025_01_forcectrl/" aria-label="Project page link" title="Project Page">{% include icon.html id="home" width="14" height="14" %}</a>
+      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">Paper</a>
+      <a href="https://ohseo.github.io/projects/2025_01_forcectrl/">Project</a>
     </div>
   </div>
 </div>
@@ -184,12 +183,12 @@ show_title: false
     <img src="/assets/papers/roar-pitfalls.png" alt="ROAR attribution post-processing examples" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>On Pitfalls of RemOve-And-Retrain: Data Processing Inequality Perspective</strong>
-    <p class="pub-authors">Junhwa Song, Keumgang Cha, <U>Junghoon Seo</U></p>
+    <h3>On Pitfalls of RemOve-And-Retrain: Data Processing Inequality Perspective</h3>
+    <p class="pub-authors">Junhwa Song, Keumgang Cha, <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">ICML Workshop</span>
       <span class="year">2026</span>
-      <a href="https://arxiv.org/abs/2304.13836" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2304.13836">Paper</a>
     </div>
   </div>
 </div>
@@ -199,12 +198,12 @@ show_title: false
     <img src="/assets/papers/egopress.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Thumb Force Estimation with Egocentric Vision</strong>
-    <p class="pub-authors">Hanseok Jeong, <U>Junghoon Seo</U>, Sang Ho Yoon</p>
+    <h3>Thumb Force Estimation with Egocentric Vision</h3>
+    <p class="pub-authors">Hanseok Jeong, <span class="author-self">Junghoon Seo</span>, Sang Ho Yoon</p>
     <div class="venue-row">
       <span class="venue-tag">ACM UIST Demo</span>
       <span class="year">2025</span>
-      <a href="https://dl.acm.org/doi/10.1145/3746058.3760441" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://dl.acm.org/doi/10.1145/3746058.3760441">Paper</a>
     </div>
   </div>
 </div>
@@ -214,12 +213,12 @@ show_title: false
     <img src="/assets/papers/lrt_sr.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries</strong>
-    <p class="pub-authors">Sunju Lee, Yeji Choi, Beomkyu Choi, <U>Junghoon Seo</U>, Minki Song, Eunha Sohn, Sewoongg Ahn</p>
+    <h3>Guided Super Resolution of Land Surface Temperature Using Multi-Satellite Imageries</h3>
+    <p class="pub-authors">Sunju Lee, Yeji Choi, Beomkyu Choi, <span class="author-self">Junghoon Seo</span>, Minki Song, Eunha Sohn, Sewoongg Ahn</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE TGRS</span>
       <span class="year">2025</span>
-      <a href="https://ieeexplore.ieee.org/document/11011314" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://ieeexplore.ieee.org/document/11011314">Paper</a>
     </div>
   </div>
 </div>
@@ -229,12 +228,12 @@ show_title: false
     <img src="/assets/papers/hdm-detr.jpg" alt="Hausdorff Distance Matching" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer</strong>
-    <p class="pub-authors">Hakjin Lee, Minki Song, Jamyoung Koo, <U>Junghoon Seo</U></p>
+    <h3>Hausdorff Distance Matching with Adaptive Query Denoising for Rotated Detection Transformer</h3>
+    <p class="pub-authors">Hakjin Lee, Minki Song, Jamyoung Koo, <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">IEEE WACV</span>
       <span class="year">2025</span>
-      <a href="https://arxiv.org/abs/2305.07598" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2305.07598">Paper</a>
     </div>
   </div>
 </div>
@@ -244,12 +243,12 @@ show_title: false
     <img src="/assets/papers/placeholder-rs.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations</strong>
-    <p class="pub-authors">Keumgang Cha, Donggeun Yu, <U>Junghoon Seo</U>, Hyunguk Choi, and Taegyun Jeon</p>
+    <h3>Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations</h3>
+    <p class="pub-authors">Keumgang Cha, Donggeun Yu, <span class="author-self">Junghoon Seo</span>, Hyunguk Choi, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ISPRS Archives</span>
       <span class="year">2025</span>
-      <a href="https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/249/2025/isprs-archives-XLVIII-G-2025-249-2025.pdf" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/249/2025/isprs-archives-XLVIII-G-2025-249-2025.pdf">Paper</a>
     </div>
   </div>
 </div>
@@ -259,13 +258,13 @@ show_title: false
     <img src="/assets/papers/pimforce.jpg" alt="Posture-Informed Muscular Force" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon</p>
+    <h3>Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon</p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS</span>
       <span class="year">2024</span>
-      <a href="https://neurips.cc/virtual/2024/poster/95565" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
-      <a href="https://pimforce.hcitech.org/" aria-label="Project page link" title="Project Page">{% include icon.html id="home" width="14" height="14" %}</a>
+      <a href="https://neurips.cc/virtual/2024/poster/95565">Paper</a>
+      <a href="https://pimforce.hcitech.org/">Project</a>
     </div>
   </div>
 </div>
@@ -275,12 +274,12 @@ show_title: false
     <img src="/assets/papers/billion-rs.jpg" alt="Billion-scale Foundation Model" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>A Billion-scale Foundation Model for Remote Sensing Images</strong>
-    <p class="pub-authors">Keumgang Cha, <U>Junghoon Seo</U>, and Taekyung Lee</p>
+    <h3>A Billion-scale Foundation Model for Remote Sensing Images</h3>
+    <p class="pub-authors">Keumgang Cha, <span class="author-self">Junghoon Seo</span>, and Taekyung Lee</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE J-STARS</span>
       <span class="year">2024</span>
-      <a href="https://arxiv.org/abs/2304.05215" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2304.05215">Paper</a>
     </div>
   </div>
 </div>
@@ -290,12 +289,12 @@ show_title: false
     <img src="/assets/papers/self-pair.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery</strong>
-    <p class="pub-authors">Minseok Seo, Hakjin Lee, Yongjin Jeon, and <U>Junghoon Seo</U></p>
+    <h3>Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery</h3>
+    <p class="pub-authors">Minseok Seo, Hakjin Lee, Yongjin Jeon, and <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">IEEE WACV</span>
       <span class="year">2023</span>
-      <a href="https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://openaccess.thecvf.com/content/WACV2023/html/Seo_Self-Pair_Synthesizing_Changes_From_Single_Source_for_Object_Change_Detection_WACV_2023_paper.html">Paper</a>
     </div>
   </div>
 </div>
@@ -305,12 +304,12 @@ show_title: false
     <img src="/assets/papers/goar.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment</strong>
-    <p class="pub-authors">Yonghyun Park, <U>Junghoon Seo</U>, Bomseok Park, Seongsu Lee, and Junghyo Jo</p>
+    <h3>Geometric Remove-and-Retrain (GOAR): Coordinate-Invariant eXplainable AI Assessment</h3>
+    <p class="pub-authors">Yonghyun Park, <span class="author-self">Junghoon Seo</span>, Bomseok Park, Seongsu Lee, and Junghyo Jo</p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS Workshop</span>
       <span class="year">2023</span>
-      <a href="https://openreview.net/forum?id=gh69Bu7k48" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://openreview.net/forum?id=gh69Bu7k48">Paper</a>
     </div>
   </div>
 </div>
@@ -320,12 +319,12 @@ show_title: false
     <img src="/assets/papers/proto-cd.jpg" alt="Prototype-oriented Unsupervised CD" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Prototype-oriented Unsupervised Change Detection for Disaster Management</strong>
-    <p class="pub-authors">Youngtack Oh, Minseok Seo, Kim Doyi, and <U>Junghoon Seo</U></p>
+    <h3>Prototype-oriented Unsupervised Change Detection for Disaster Management</h3>
+    <p class="pub-authors">Youngtack Oh, Minseok Seo, Kim Doyi, and <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS Workshop</span>
       <span class="year">2023</span>
-      <a href="https://arxiv.org/abs/2310.09759" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2310.09759">Paper</a>
     </div>
   </div>
 </div>
@@ -335,13 +334,13 @@ show_title: false
     <img src="/assets/papers/sihg.jpg" alt="Semi-Implicit Hybrid Gradient" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness</strong>
-    <p class="pub-authors">Beomsu Kim and <U>Junghoon Seo</U></p>
+    <h3>Semi-Implicit Hybrid Gradient Methods with Application to Adversarial Robustness</h3>
+    <p class="pub-authors">Beomsu Kim and <span class="author-self">Junghoon Seo</span></p>
     <div class="venue-row">
       <span class="venue-tag">AISTATS</span>
       <span class="year">2022</span>
-      <a href="https://arxiv.org/abs/2202.10523" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
-      <a href="https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness" aria-label="Video link" title="Video link">{% include icon.html id="youtube" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2202.10523">Paper</a>
+      <a href="https://slideslive.com/38980554/semiimplicit-hybrid-gradient-methods-with-application-to-adversarial-robustness">Video</a>
     </div>
   </div>
 </div>
@@ -351,12 +350,12 @@ show_title: false
     <img src="/assets/papers/abnormal-access.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data</strong>
-    <p class="pub-authors">Seunghyoung Ryu, Jiyeon Yim, <U>Junghoon Seo</U>, Yonggyun Yu, and Hogeon Seo</p>
+    <h3>Quantile Autoencoder with Abnormality Accumulation for Anomaly Detection of Multi-variate Sensor Data</h3>
+    <p class="pub-authors">Seunghyoung Ryu, Jiyeon Yim, <span class="author-self">Junghoon Seo</span>, Yonggyun Yu, and Hogeon Seo</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE Access</span>
       <span class="year">2022</span>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9810961/" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9810961/">Paper</a>
     </div>
   </div>
 </div>
@@ -366,12 +365,12 @@ show_title: false
     <img src="/assets/papers/contrastive.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation</strong>
-    <p class="pub-authors">Keumgang Cha, <U>Junghoon Seo</U>, and Yeji Choi</p>
+    <h3>Contrastive Multiview Coding With Electro-Optics for SAR Semantic Segmentation</h3>
+    <p class="pub-authors">Keumgang Cha, <span class="author-self">Junghoon Seo</span>, and Yeji Choi</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE GRSL</span>
       <span class="year">2021</span>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9537157?casa_token=BKmjojS1rVUAAAAA:fGEfg34u8sfBOI0rtnaq2vs2wNbFGDr3cjH-Hr9zHkKWsNwaa1EsNywaRz62t6V4jABWErGoPg">Paper</a>
     </div>
   </div>
 </div>
@@ -381,12 +380,12 @@ show_title: false
     <img src="/assets/papers/domain-inv-det.jpg" alt="Training Domain-invariant Object Detector" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner</strong>
-    <p class="pub-authors">Chaehyeon Lee, <U>Junghoon Seo</U>, and Heechul Jung</p>
+    <h3>Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner</h3>
+    <p class="pub-authors">Chaehyeon Lee, <span class="author-self">Junghoon Seo</span>, and Heechul Jung</p>
     <div class="venue-row">
       <span class="venue-tag">CVPR Workshop</span>
       <span class="year">2021</span>
-      <a href="https://arxiv.org/abs/2105.14693" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2105.14693">Paper</a>
     </div>
   </div>
 </div>
@@ -396,12 +395,12 @@ show_title: false
     <img src="/assets/papers/naive-pll.jpg" alt="On the Power of Deep but Naive Partial Label" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>On the Power of Deep but Naive Partial Label Learning</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U> and Joon Suk Huh</p>
+    <h3>On the Power of Deep but Naive Partial Label Learning</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span> and Joon Suk Huh</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE ICASSP</span>
       <span class="year">2021</span>
-      <a href="https://arxiv.org/abs/2010.11600" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/2010.11600">Paper</a>
     </div>
   </div>
 </div>
@@ -411,12 +410,12 @@ show_title: false
     <img src="/assets/papers/nllink.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations</strong>
-    <p class="pub-authors">Yooseung Wang, <U>Junghoon Seo</U>, and Taegyun Jeon</p>
+    <h3>NL-LinkNet: Toward Lighter but More Accurate Road Extraction with Non-Local Operations</h3>
+    <p class="pub-authors">Yooseung Wang, <span class="author-self">Junghoon Seo</span>, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">IEEE GRSL</span>
       <span class="year">2021</span>
-      <a href="https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://ieeexplore.ieee.org/document/9336223?fbclid=IwAR05z_8K7UWYGS5Wb6kJEg_1BMGC2BpTXsV0bI8cpCqCKeLWAm8UHFXsEOw">Paper</a>
     </div>
   </div>
 </div>
@@ -426,12 +425,12 @@ show_title: false
     <img src="/assets/papers/bagging-disaster.jpg" alt="Revisiting Classical Bagging" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Seungwon Lee, Beomsu Kim, and Taegyun Jeon</p>
+    <h3>Revisiting Classical Bagging with Modern Transfer Learning for On-the-fly Disaster Damage Detector</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Seungwon Lee, Beomsu Kim, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS Workshop</span>
       <span class="year">2019</span>
-      <a href="https://arxiv.org/abs/1910.01911" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1910.01911">Paper</a>
     </div>
   </div>
 </div>
@@ -441,12 +440,12 @@ show_title: false
     <img src="/assets/papers/dcfsc.jpg" alt="Deep Closed-Form Subspace Clustering" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Deep Closed-Form Subspace Clustering</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Jamyoung Koo, and Taegyun Jeon</p>
+    <h3>Deep Closed-Form Subspace Clustering</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Jamyoung Koo, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ICCV Workshop</span>
       <span class="year">2019</span>
-      <a href="https://arxiv.org/abs/1908.09419" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1908.09419">Paper</a>
     </div>
   </div>
 </div>
@@ -456,12 +455,12 @@ show_title: false
     <img src="/assets/papers/noisy-saliency.jpg" alt="Why are Saliency Maps Noisy" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps</strong>
-    <p class="pub-authors">Beomsu Kim, <U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, and Taegyun Jeon</p>
+    <h3>Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps</h3>
+    <p class="pub-authors">Beomsu Kim, <span class="author-self">Junghoon Seo</span>, Jeongyeol Choe, Jamyoung Koo, Seunghyeon Jeon, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ICCV Workshop</span>
       <span class="year">2019</span>
-      <a href="https://arxiv.org/abs/1902.04893" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1902.04893">Paper</a>
     </div>
   </div>
 </div>
@@ -471,12 +470,12 @@ show_title: false
     <img src="/assets/papers/bridge-adv.jpg" alt="Bridging Adversarial Robustness" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Bridging Adversarial Robustness and Gradient Interpretability</strong>
-    <p class="pub-authors">Beomsu Kim, <U>Junghoon Seo</U>, and Taegyun Jeon</p>
+    <h3>Bridging Adversarial Robustness and Gradient Interpretability</h3>
+    <p class="pub-authors">Beomsu Kim, <span class="author-self">Junghoon Seo</span>, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ICLR Workshop</span>
       <span class="year">2019</span>
-      <a href="https://arxiv.org/abs/1903.11626" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1903.11626">Paper</a>
     </div>
   </div>
 </div>
@@ -486,12 +485,12 @@ show_title: false
     <img src="/assets/papers/rbox-cnn.png" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image</strong>
-    <p class="pub-authors">Jamyoung Koo, <U>Junghoon Seo</U>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon</p>
+    <h3>RBox-CNN: Rotated Bounding Box based CNN for Ship Detection in Remote Sensing Image</h3>
+    <p class="pub-authors">Jamyoung Koo, <span class="author-self">Junghoon Seo</span>, Seunghyun Jeon, Jeongyeol Choe, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ACM SIGSPATIAL</span>
       <span class="year">2018</span>
-      <a href="https://dl.acm.org/citation.cfm?id=3274915" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://dl.acm.org/citation.cfm?id=3274915">Paper</a>
     </div>
   </div>
 </div>
@@ -501,12 +500,12 @@ show_title: false
     <img src="/assets/papers/noise-saliency.jpg" alt="Noise-adding Methods of Saliency Map" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon</p>
+    <h3>Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Jeongyeol Choe, Jamyoung Koo, SeungHyun Jeon, Beomsu Kim, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ICML Workshop</span>
       <span class="year">2018</span>
-      <a href="https://arxiv.org/abs/1806.03000" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1806.03000">Paper</a>
     </div>
   </div>
 </div>
@@ -516,12 +515,12 @@ show_title: false
     <img src="/assets/papers/domain-aircraft.jpg" alt="Domain Adaptive Generation of Aircraft" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning</strong>
-    <p class="pub-authors"><U>Junghoon Seo</U>, Seunghyun Jeon, and Taegyun Jeon</p>
+    <h3>Domain Adaptive Generation of Aircraft on Satellite Imagery via Simulated and Unsupervised Learning</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Seunghyun Jeon, and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ACML Workshop</span>
       <span class="year">2017</span>
-      <a href="https://arxiv.org/abs/1806.03002" aria-label="Paper link" title="Paper link">{% include icon.html id="paper" width="14" height="14" %}</a>
+      <a href="https://arxiv.org/abs/1806.03002">Paper</a>
     </div>
   </div>
 </div>
@@ -531,8 +530,8 @@ show_title: false
     <img src="/assets/papers/placeholder-cv.svg" alt="" loading="lazy" />
   </div>
   <div class="pub-text">
-    <strong>Multi-task Learning for Fine-grained Visual Classification of Aircraft</strong>
-    <p class="pub-authors">Seunghyun Jeon, <U>Junghoon Seo</U> and Taegyun Jeon</p>
+    <h3>Multi-task Learning for Fine-grained Visual Classification of Aircraft</h3>
+    <p class="pub-authors">Seunghyun Jeon, <span class="author-self">Junghoon Seo</span> and Taegyun Jeon</p>
     <div class="venue-row">
       <span class="venue-tag">ACML Workshop</span>
       <span class="year">2017</span>
@@ -546,7 +545,7 @@ show_title: false
     <div class="pubs-modal__head">
       <h2 class="pubs-modal__title" id="publications-modal-title">All publications</h2>
       <button id="publications-close" class="pubs-modal__close" type="button" aria-label="Close all publications">
-        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true" focusable="false">
+        <svg width="18" height="18" viewBox="0 0 14 14" fill="none" aria-hidden="true" focusable="false">
           <path d="M2.5 2.5 11.5 11.5M11.5 2.5 2.5 11.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
         </svg>
       </button>
@@ -554,74 +553,13 @@ show_title: false
     <div class="pubs-modal__body" id="publications-modal-body" tabindex="-1" autofocus></div>
   </dialog>
 
-  <script>
-    (() => {
-      const list = document.getElementById('publications-list');
-      const openBtn = document.getElementById('publications-open');
-      if (!list || !openBtn) return;
-
-      const total = list.querySelectorAll('.pub-entry').length;
-      document.querySelectorAll('[data-pubs-count]').forEach((el) => {
-        el.textContent = String(total);
-      });
-
-      list.classList.add('pubs--collapsed');
-      openBtn.hidden = false;
-
-      const modal = document.getElementById('publications-modal');
-      const modalBody = document.getElementById('publications-modal-body');
-      const closeBtn = document.getElementById('publications-close');
-
-      // Without <dialog> support, fall back to expanding the list in place.
-      if (!modal || typeof modal.showModal !== 'function') {
-        if (modal) modal.remove();
-        openBtn.setAttribute('aria-expanded', 'false');
-        openBtn.setAttribute('aria-controls', 'publications-list');
-        openBtn.removeAttribute('aria-haspopup');
-        openBtn.addEventListener('click', () => {
-          const expanded = openBtn.getAttribute('aria-expanded') === 'true';
-          openBtn.setAttribute('aria-expanded', String(!expanded));
-          list.classList.toggle('pubs--collapsed', expanded);
-        });
-        return;
-      }
-
-      let filled = false;
-      const fill = () => {
-        if (filled) return;
-        const all = list.cloneNode(true);
-        all.removeAttribute('id');
-        all.classList.remove('pubs--collapsed');
-        modalBody.appendChild(all);
-        filled = true;
-      };
-
-      openBtn.addEventListener('click', () => {
-        fill();
-        modal.showModal();
-        modalBody.scrollTop = 0;
-        document.documentElement.classList.add('is-modal-open');
-      });
-
-      closeBtn.addEventListener('click', () => modal.close());
-
-      // Click on the backdrop targets the dialog itself.
-      modal.addEventListener('click', (event) => {
-        if (event.target === modal) modal.close();
-      });
-
-      modal.addEventListener('close', () => {
-        document.documentElement.classList.remove('is-modal-open');
-        openBtn.focus();
-      });
-    })();
-  </script>
 </section>
 
 <div class="twocol">
   <section class="section">
     <header class="section__head">
-      <h2>Working Titles / Under Review</h2>
+      <h2>Work in progress</h2>
+      <p>Working titles and papers under review.</p>
     </header>
     <ul class="tagged-list">
       <li>Pressure Estimation for Hand-based Interaction</li>
@@ -687,9 +625,5 @@ show_title: false
     <li><div>Method for data clustering</div><div class="patents-list__no">10-2020-0107206</div></li>
   </ul>
 </section>
-
-<footer class="page-footer">
-  <span>&copy; Junghoon Seo 2026</span>
-</footer>
 
 </div>

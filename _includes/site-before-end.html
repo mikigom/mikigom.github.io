@@ -1,8 +1,10 @@
 <script>
-  // Force all anchors to open in a new tab/window and add safer rel flags
+  // External websites open separately; section links and email keep native behavior.
   (function () {
     var anchors = document.querySelectorAll('a[href]');
     anchors.forEach(function (anchor) {
+      var url = new URL(anchor.href, window.location.href);
+      if (!/^https?:$/.test(url.protocol) || url.origin === window.location.origin) return;
       anchor.setAttribute('target', '_blank');
 
       var rel = (anchor.getAttribute('rel') || '').split(/\s+/).filter(Boolean);

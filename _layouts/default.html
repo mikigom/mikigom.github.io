@@ -21,16 +21,19 @@
     {% else %}
       {% seo %}
     {% endif %}
-    {% if site.fonts.preconnect_urls %}
+    {% if page.layout != 'cv' and site.fonts.preconnect_urls %}
       {% for url in site.fonts.preconnect_urls %}
         <link rel="preconnect" href="{{ url }}" crossorigin />
       {% endfor %}
     {% endif %}
 
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
-    <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
+    <meta name="theme-color" content="{% if page.layout == 'cv' %}#ffffff{% else %}{{ site.manifest.theme_color | default: '#242e2b' }}{% endif %}"/>
 
-    {% if site.css_inline == true %}
+    {% if page.layout == 'cv' %}
+      <link rel="stylesheet" href="{{ '/assets/cv.css' | relative_url }}">
+      <script src="{{ '/assets/scripts/cv.js' | relative_url }}" defer></script>
+    {% elsif site.css_inline == true %}
       {% include site-styles.html %}
     {% else %}
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
@@ -40,13 +43,13 @@
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
-    {% include site-fonts.html %}
+    {% unless page.layout == 'cv' %}{% include site-fonts.html %}{% endunless %}
 
     {% include site-before-start.html %}
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-    {% include site-icons.svg %}
+    {% unless page.layout == 'cv' %}{% include site-icons.svg %}{% endunless %}
 
     {{ content }}
 
