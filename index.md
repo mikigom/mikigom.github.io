@@ -11,7 +11,6 @@ show_title: false
 
 <section class="hero" id="about" aria-labelledby="about-title">
   <div class="hero__intro">
-    <p class="eyebrow">Computer vision &amp; AI robotics</p>
     <h1 id="about-title">Junghoon Seo</h1>
   </div>
   <div class="hero__media">
