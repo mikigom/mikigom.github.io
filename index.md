@@ -120,6 +120,20 @@ show_title: false
 
 <div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
+    <img src="/assets/papers/optimal-ips.png" alt="Optimal IPS estimation from multi-logger data" loading="lazy" />
+  </div>
+  <div class="pub-text">
+    <strong>Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation</strong>
+    <p class="pub-authors">Joon Suk Huh, <U>Junghoon Seo</U></p>
+    <div class="venue-row">
+      <span class="venue-tag">NeurIPS</span>
+      <span class="year">2026</span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry pub-entry--selected">
+  <div class="pub-thumb">
     <img src="/assets/papers/distributional-stability.png" alt="Distributional Stability of Tangent-Linearized Gaussian Inference" loading="lazy" />
   </div>
   <div class="pub-text">
