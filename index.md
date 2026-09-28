@@ -556,7 +556,6 @@ show_title: false
     </header>
     <ul class="tagged-list">
       <li>Pressure Estimation for Hand-based Interaction</li>
-      <li>Off-policy Evaluation from Multiple Logging Policies</li>
       <li>Scalable Multi-robot System</li>
       <li>Data-efficient RGB-D Pose Estimation</li>
       <li>System Identification on Jordan Block</li>
