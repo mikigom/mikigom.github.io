@@ -553,7 +553,6 @@ show_title: false
   <section class="section">
     <header class="section__head">
       <h2>Work in progress</h2>
-      <p>Working titles and papers under review.</p>
     </header>
     <ul class="tagged-list">
       <li>Pressure Estimation for Hand-based Interaction</li>
