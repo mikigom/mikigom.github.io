@@ -450,6 +450,14 @@ img {
   &--placeholder {
     background: linear-gradient(135deg, var(--accent-soft), #d4ebe4);
   }
+
+  &--contain {
+    background: #ffffff;
+
+    img {
+      object-fit: contain;
+    }
+  }
 }
 
 .pub-text {

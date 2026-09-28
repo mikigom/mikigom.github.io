@@ -119,7 +119,7 @@ show_title: false
   <div class="pubs" id="publications-list">
 
 <div class="pub-entry pub-entry--selected">
-  <div class="pub-thumb">
+  <div class="pub-thumb pub-thumb--contain">
     <img src="/assets/papers/optimal-ips.png" alt="Optimal IPS estimation from multi-logger data" loading="lazy" />
   </div>
   <div class="pub-text">
