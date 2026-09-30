@@ -126,6 +126,20 @@ show_title: false
 </div>
 
 <div class="pub-entry pub-entry--selected">
+  <div class="pub-thumb pub-thumb--contain">
+    <img src="/assets/papers/stationary-gaussian-sgd.png" alt="Constant-stepsize SGD approaching a stationary distribution under noise" loading="lazy" />
+  </div>
+  <div class="pub-text">
+    <h3>Sharp Stationary Gaussian Approximation for Constant-Stepsize SGD</h3>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo</span></p>
+    <div class="venue-row">
+      <span class="venue-tag">NeurIPS Workshop</span>
+      <span class="year">2026</span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry pub-entry--selected">
   <div class="pub-thumb">
     <img src="/assets/papers/distributional-stability.png" alt="Distributional Stability of Tangent-Linearized Gaussian Inference" loading="lazy" />
   </div>
@@ -384,7 +398,7 @@ show_title: false
   </div>
 </div>
 
-<div class="pub-entry pub-entry--selected">
+<div class="pub-entry">
   <div class="pub-thumb">
     <img src="/assets/papers/naive-pll.jpg" alt="On the Power of Deep but Naive Partial Label" loading="lazy" />
   </div>
