@@ -135,6 +135,7 @@ show_title: false
     <div class="venue-row">
       <span class="venue-tag">NeurIPS Workshop</span>
       <span class="year">2026</span>
+      <a href="https://arxiv.org/abs/2609.39144">Paper</a>
     </div>
   </div>
 </div>
