@@ -117,7 +117,7 @@ show_title: false
   </div>
   <div class="pub-text">
     <h3>Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation</h3>
-    <p class="pub-authors">Joon Suk Huh, <span class="author-self">Junghoon Seo</span></p>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo<sup>*</sup></span>, Joon Suk Huh<sup>*</sup> <span class="pub-contribution">(* co-first authors)</span></p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS</span>
       <span class="year">2026</span>
@@ -268,7 +268,7 @@ show_title: false
   </div>
   <div class="pub-text">
     <h3>Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation</h3>
-    <p class="pub-authors"><span class="author-self">Junghoon Seo</span>, Kyungjin Seo, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon</p>
+    <p class="pub-authors"><span class="author-self">Junghoon Seo<sup>*</sup></span>, Kyungjin Seo<sup>*</sup>, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon <span class="pub-contribution">(* co-first authors)</span></p>
     <div class="venue-row">
       <span class="venue-tag">NeurIPS</span>
       <span class="year">2024</span>

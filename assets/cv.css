@@ -165,6 +165,8 @@ main:focus { outline: none; }
 .pub-text h3 { margin: 0; max-width: 68ch; }
 .pub-authors { margin-top: 12px; max-width: 85ch; color: var(--muted); font-size: 1rem; line-height: 1.75; }
 .pub-authors .author-self { color: var(--body); font-weight: 600; }
+.pub-authors sup { color: var(--blue); font-size: 0.75em; line-height: 0; }
+.pub-authors .pub-contribution { display: inline-block; margin-left: 0.5em; font-size: 0.875em; }
 .venue-row { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; margin-top: 12px; font-size: 0.9375rem; }
 .venue-tag { color: var(--body); font-weight: 600; }
 .year { color: var(--muted); font-variant-numeric: tabular-nums; }
