@@ -612,7 +612,7 @@ show_title: false
     </header>
     <ul class="tagged-list">
       <li><strong>Journals:</strong> IEEE TPAMI, IEEE TNNLS, IEEE TGRS, IEEE GRSL, and more</li>
-      <li><strong>Conferences:</strong> AAAI '27, ECCV '26, ICLR '26, CVPR '26, NeurIPS '25, ICML '25, and others</li>
+      <li><strong>Conferences:</strong> AAAI '27, ICLR '27, AISTATS '27, ICRA '27, NeurIPS '26, ECCV '26, ICLR '26, CVPR '26, NeurIPS '25, ICML '25, and others</li>
     </ul>
   </section>
 </div>
