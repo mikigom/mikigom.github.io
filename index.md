@@ -121,6 +121,8 @@ show_title: false
     <div class="venue-row">
       <span class="venue-tag">NeurIPS</span>
       <span class="year">2026</span>
+      <a href="https://arxiv.org/abs/2611.11712">Paper</a>
+      <a href="https://github.com/mikigom/variational-optimal-IPS">Code</a>
     </div>
   </div>
 </div>
